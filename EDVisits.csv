@@ -1,0 +1,1200 @@
+EDVisitID,PatientID,VisitDate,EDDischargeTime,Acuity,ReasonForVisit,EDDisposition
+1,1,12:00:00 AM,11:20:23 AM,1,Stomach Ache,Admitted
+12,12,2:45:40 AM,2:00:01 AM,2,Migraine,Admitted
+13,13,3:09:25 AM,5:00:21 AM,3,Stomach Ache,Admitted
+14,14,3:12:19 AM,4:32:29 AM,3,Migraine,Admitted
+15,15,3:46:33 AM,6:24:53 AM,3,Chest Pain,Admitted
+16,16,4:02:27 AM,11:45:54 AM,4,Bleeding,Admitted
+17,17,4:38:22 AM,4:27:54 PM,4,Chest Pain,Admitted
+18,18,4:39:40 AM,3:25:07 AM,5,Car Accident,Admitted
+19,19,4:56:12 AM,4:31:46 AM,5,Chest Pain,Admitted
+26,26,6:14:46 AM,3:34:01 PM,5,Chest Pain,Admitted
+27,27,6:27:42 AM,6:30:36 PM,5,Chest Pain,Admitted
+29,29,6:51:29 AM,5:57:02 AM,2,Pneumonia,Admitted
+30,30,7:25:54 AM,11:30:20 PM,3,Pneumonia,Admitted
+31,31,7:32:52 AM,7:55:47 PM,4,Pneumonia,Admitted
+32,32,7:58:40 AM,12:47:40 AM,2,Pneumonia,Admitted
+43,43,11:12:47 AM,1:08:14 PM,1,Fever,Admitted
+44,44,11:41:21 AM,5:18:14 AM,4,Pneumonia,Admitted
+45,45,11:53:16 AM,9:20:19 PM,5,Shortness of Breath,Admitted
+46,1,11:55:53 AM,12:04:19 PM,2,Shortness of Breath,Admitted
+51,51,1:52:32 PM,7:45:26 AM,5,Fever,Admitted
+52,52,1:53:26 PM,1:34:29 AM,5,Gun Shot,Admitted
+53,53,2:28:22 PM,10:29:34 PM,4,Pneumonia,Admitted
+54,54,2:35:15 PM,11:36:15 AM,2,Shortness of Breath,Admitted
+55,3,3:01:30 PM,11:11:54 PM,3,Migraine,Admitted
+56,55,3:02:36 PM,10:40:09 AM,4,Pneumonia,Admitted
+57,56,3:24:29 PM,1:31:43 PM,2,Pneumonia,Admitted
+58,57,3:45:28 PM,2:03:02 PM,5,Pneumonia,Admitted
+59,58,3:47:38 PM,8:18:07 PM,5,Accident,Admitted
+70,68,6:48:36 PM,7:50:57 PM,5,Chest Pain,Admitted
+71,69,7:06:34 PM,6:28:02 AM,2,Fever,Admitted
+76,73,8:49:51 PM,2:51:56 AM,5,Accident,Admitted
+77,74,8:51:05 PM,3:21:42 AM,5,Accident,Admitted
+78,75,9:05:39 PM,7:38:40 PM,4,Shortness of Breath,Admitted
+79,76,9:07:17 PM,7:40:00 AM,2,Shortness of Breath,Admitted
+80,77,9:21:53 PM,4:17:41 AM,3,Fever,Admitted
+81,78,9:36:26 PM,10:17:01 PM,4,Shortness of Breath,Admitted
+82,79,9:56:48 PM,4:34:57 AM,2,Car Accident,Admitted
+83,80,10:20:44 PM,6:56:12 AM,5,Gun Shot,Admitted
+84,81,10:32:29 PM,3:33:57 AM,5,Chest Pain,Admitted
+85,82,11:04:26 PM,4:13:04 PM,1,Pneumonia,Admitted
+94,3,1:11:35 AM,1:46:34 PM,4,Chest Pain,Admitted
+95,4,1:21:22 AM,5:25:47 AM,5,Fever,Admitted
+99,8,1:34:50 AM,1:29:42 AM,3,Shortness of Breath,Admitted
+100,9,1:42:22 AM,1:02:00 AM,4,Shortness of Breath,Admitted
+101,10,1:59:52 AM,5:58:35 AM,5,Shortness of Breath,Admitted
+102,11,2:10:27 AM,7:57:45 PM,1,Stomach Ache,Admitted
+113,22,6:04:16 AM,8:50:41 AM,2,Migraine,Admitted
+114,23,6:33:47 AM,9:56:01 AM,3,Stomach Ache,Admitted
+115,24,6:41:15 AM,5:42:57 PM,3,Migraine,Admitted
+116,25,6:50:29 AM,7:26:18 PM,3,Chest Pain,Admitted
+117,26,7:08:05 AM,9:12:59 AM,4,Bleeding,Admitted
+118,27,7:30:53 AM,9:33:53 AM,4,Chest Pain,Admitted
+119,28,7:52:56 AM,8:58:33 PM,5,Car Accident,Admitted
+120,29,7:54:25 AM,1:25:16 AM,5,Chest Pain,Admitted
+127,36,10:03:06 AM,3:01:02 AM,5,Chest Pain,Admitted
+128,37,10:25:17 AM,10:28:05 PM,5,Chest Pain,Admitted
+130,39,10:39:33 AM,7:45:51 PM,2,Pneumonia,Admitted
+131,40,10:53:02 AM,11:16:40 AM,3,Pneumonia,Admitted
+132,41,10:58:45 AM,5:24:24 PM,4,Pneumonia,Admitted
+133,42,11:04:22 AM,6:20:32 AM,2,Pneumonia,Admitted
+144,53,1:47:18 PM,2:31:30 AM,1,Fever,Admitted
+145,54,2:20:24 PM,6:46:53 PM,4,Pneumonia,Admitted
+146,55,2:54:03 PM,7:49:32 PM,5,Shortness of Breath,Admitted
+147,56,3:28:16 PM,1:24:44 AM,2,Shortness of Breath,Admitted
+152,61,5:07:51 PM,7:47:07 PM,5,Fever,Admitted
+153,62,5:31:43 PM,9:21:40 PM,5,Gun Shot,Admitted
+154,63,5:42:55 PM,4:32:20 AM,4,Pneumonia,Admitted
+155,64,5:43:26 PM,3:50:33 PM,2,Shortness of Breath,Admitted
+156,65,5:52:01 PM,11:09:28 PM,3,Migraine,Admitted
+157,66,6:00:58 PM,6:39:09 AM,4,Pneumonia,Admitted
+158,67,6:18:32 PM,3:05:24 AM,2,Pneumonia,Admitted
+159,68,6:20:54 PM,4:55:36 PM,5,Pneumonia,Admitted
+160,69,6:46:26 PM,5:02:29 AM,5,Accident,Admitted
+171,80,10:15:01 PM,3:07:31 PM,5,Chest Pain,Admitted
+172,81,10:50:58 PM,8:50:24 PM,2,Fever,Admitted
+177,86,12:14:22 AM,10:23:55 AM,5,Accident,Admitted
+178,87,12:45:42 AM,1:46:35 AM,5,Accident,Admitted
+179,88,1:06:51 AM,7:25:44 PM,4,Shortness of Breath,Admitted
+180,89,1:25:16 AM,8:16:30 PM,2,Shortness of Breath,Admitted
+181,90,1:55:50 AM,2:48:09 PM,1,Stomach Ache,Admitted
+192,101,5:06:24 AM,4:27:49 PM,2,Migraine,Admitted
+193,102,5:27:19 AM,4:53:48 AM,3,Stomach Ache,Admitted
+194,103,5:44:52 AM,12:58:53 PM,3,Migraine,Admitted
+195,104,6:14:43 AM,10:31:54 PM,3,Chest Pain,Admitted
+196,105,6:22:15 AM,5:25:36 AM,4,Bleeding,Admitted
+197,106,6:42:11 AM,11:59:14 AM,4,Chest Pain,Admitted
+198,107,7:09:37 AM,9:16:38 PM,5,Car Accident,Admitted
+199,108,7:31:45 AM,3:39:13 PM,5,Chest Pain,Admitted
+206,115,9:07:25 AM,2:40:05 AM,5,Chest Pain,Admitted
+207,116,9:34:31 AM,2:27:39 AM,5,Chest Pain,Admitted
+209,118,10:16:55 AM,9:43:42 PM,2,Pneumonia,Admitted
+210,119,10:21:07 AM,10:21:33 PM,3,Pneumonia,Admitted
+211,120,10:34:38 AM,4:03:56 AM,4,Pneumonia,Admitted
+212,121,11:05:15 AM,12:08:05 AM,2,Pneumonia,Admitted
+223,132,2:50:47 PM,4:42:08 PM,1,Fever,Admitted
+224,133,2:58:16 PM,8:47:58 AM,4,Pneumonia,Admitted
+225,134,3:13:00 PM,6:32:05 PM,5,Shortness of Breath,Admitted
+226,135,3:40:12 PM,4:11:41 AM,2,Shortness of Breath,Admitted
+231,140,4:45:00 PM,12:49:31 PM,5,Fever,Admitted
+232,141,5:05:31 PM,6:55:54 AM,5,Gun Shot,Admitted
+233,142,5:10:20 PM,6:32:55 PM,4,Pneumonia,Admitted
+234,143,5:22:21 PM,3:27:53 PM,2,Shortness of Breath,Admitted
+235,144,5:53:06 PM,12:27:06 AM,3,Migraine,Admitted
+236,145,6:09:09 PM,5:28:48 PM,4,Pneumonia,Admitted
+237,146,6:18:53 PM,10:09:30 AM,2,Pneumonia,Admitted
+238,147,6:52:52 PM,1:59:54 PM,5,Pneumonia,Admitted
+239,148,7:27:05 PM,9:21:02 AM,5,Accident,Admitted
+250,159,10:45:04 PM,12:27:08 PM,5,Chest Pain,Admitted
+251,160,11:01:08 PM,4:56:20 PM,2,Fever,Admitted
+256,165,12:17:32 AM,4:45:17 PM,5,Accident,Admitted
+257,166,12:47:09 AM,10:14:20 PM,5,Accident,Admitted
+258,167,1:07:52 AM,8:06:43 AM,4,Shortness of Breath,Admitted
+259,168,1:24:28 AM,9:27:19 PM,2,Shortness of Breath,Admitted
+260,169,1:47:35 AM,8:20:59 AM,1,Stomach Ache,Admitted
+271,180,4:40:34 AM,7:16:43 PM,2,Migraine,Admitted
+272,181,5:05:16 AM,5:11:58 PM,3,Stomach Ache,Admitted
+273,182,5:41:02 AM,9:42:07 PM,3,Migraine,Admitted
+274,183,5:48:38 AM,2:25:05 PM,3,Chest Pain,Admitted
+275,184,6:09:06 AM,4:37:16 AM,4,Bleeding,Admitted
+276,185,6:26:32 AM,1:49:42 AM,4,Chest Pain,Admitted
+277,186,6:50:15 AM,8:05:03 PM,5,Car Accident,Admitted
+278,187,7:13:57 AM,8:04:30 PM,5,Chest Pain,Admitted
+285,194,10:36:30 AM,8:12:43 AM,5,Chest Pain,Admitted
+286,195,10:36:56 AM,10:31:20 PM,5,Chest Pain,Admitted
+288,197,11:22:31 AM,5:24:20 AM,2,Pneumonia,Admitted
+289,198,11:58:13 AM,4:02:49 AM,3,Pneumonia,Admitted
+290,199,12:21:39 PM,1:39:30 PM,4,Pneumonia,Admitted
+291,200,12:54:37 PM,4:32:18 PM,2,Pneumonia,Admitted
+302,211,3:49:46 PM,2:24:07 AM,1,Fever,Admitted
+303,212,4:16:17 PM,1:11:11 AM,4,Pneumonia,Admitted
+304,213,4:51:32 PM,2:56:11 AM,5,Shortness of Breath,Admitted
+305,214,5:12:39 PM,7:01:24 AM,2,Shortness of Breath,Admitted
+310,219,6:28:44 PM,11:53:54 AM,5,Fever,Admitted
+311,220,6:52:09 PM,2:22:33 AM,5,Gun Shot,Admitted
+312,221,7:27:51 PM,10:47:05 PM,4,Pneumonia,Admitted
+313,222,7:50:23 PM,8:48:25 PM,2,Shortness of Breath,Admitted
+314,223,8:25:09 PM,11:22:10 AM,3,Migraine,Admitted
+315,224,8:28:05 PM,8:23:07 AM,4,Pneumonia,Admitted
+316,225,8:36:32 PM,12:25:08 AM,2,Pneumonia,Admitted
+317,226,8:40:28 PM,3:08:54 PM,5,Pneumonia,Admitted
+318,227,8:56:09 PM,11:13:14 PM,5,Accident,Admitted
+329,238,12:20:40 AM,6:47:09 PM,5,Chest Pain,Admitted
+330,239,12:42:46 AM,5:30:34 PM,2,Fever,Admitted
+335,244,2:17:13 AM,10:04:10 AM,5,Accident,Admitted
+336,245,2:41:10 AM,7:41:00 AM,5,Accident,Admitted
+337,246,3:14:25 AM,7:00:25 AM,4,Shortness of Breath,Admitted
+338,247,3:30:20 AM,3:47:27 PM,2,Shortness of Breath,Admitted
+339,248,3:48:23 AM,11:58:44 PM,1,Stomach Ache,Admitted
+350,259,7:01:25 AM,10:57:29 PM,2,Migraine,Admitted
+351,260,7:34:09 AM,3:24:37 PM,3,Stomach Ache,Admitted
+352,261,7:46:45 AM,10:19:58 PM,3,Migraine,Admitted
+353,262,8:07:37 AM,12:45:21 PM,3,Chest Pain,Admitted
+354,263,8:08:47 AM,3:12:22 AM,4,Bleeding,Admitted
+355,264,8:23:45 AM,2:57:16 PM,4,Chest Pain,Admitted
+356,265,8:50:22 AM,12:37:58 PM,5,Car Accident,Admitted
+357,266,8:53:43 AM,12:03:50 PM,5,Chest Pain,Admitted
+364,273,11:14:50 AM,3:46:31 PM,5,Chest Pain,Admitted
+365,274,11:33:32 AM,9:41:48 PM,5,Chest Pain,Admitted
+367,276,12:06:49 PM,4:56:28 PM,2,Pneumonia,Admitted
+368,277,12:21:14 PM,7:31:05 AM,3,Pneumonia,Admitted
+369,278,12:40:09 PM,11:49:16 PM,4,Pneumonia,Admitted
+370,279,12:49:18 PM,10:26:21 PM,2,Pneumonia,Admitted
+381,290,3:40:12 PM,5:01:20 PM,1,Fever,Admitted
+382,291,3:44:14 PM,3:58:19 AM,4,Pneumonia,Admitted
+383,292,3:55:53 PM,4:00:20 PM,5,Shortness of Breath,Admitted
+384,293,3:57:49 PM,11:48:20 PM,2,Shortness of Breath,Admitted
+389,298,5:00:20 PM,2:00:17 PM,5,Fever,Admitted
+390,299,5:33:56 PM,7:12:52 PM,5,Gun Shot,Admitted
+391,300,6:07:28 PM,2:47:12 AM,4,Pneumonia,Admitted
+392,301,6:17:54 PM,4:32:43 AM,2,Shortness of Breath,Admitted
+393,302,6:44:59 PM,12:23:15 PM,3,Migraine,Admitted
+394,303,6:53:51 PM,7:58:06 PM,4,Pneumonia,Admitted
+395,304,7:06:57 PM,10:28:40 AM,2,Pneumonia,Admitted
+396,305,7:24:04 PM,2:35:59 AM,5,Pneumonia,Admitted
+397,306,7:24:37 PM,5:26:38 PM,5,Accident,Admitted
+408,317,10:48:46 PM,3:41:14 PM,5,Chest Pain,Admitted
+409,318,11:04:08 PM,10:24:24 AM,2,Fever,Admitted
+414,323,1:01:56 AM,1:10:06 PM,5,Accident,Admitted
+415,324,1:34:47 AM,4:12:52 AM,5,Accident,Admitted
+416,325,1:57:41 AM,7:12:20 PM,4,Shortness of Breath,Admitted
+417,326,2:02:39 AM,4:07:37 AM,2,Shortness of Breath,Admitted
+418,327,2:07:20 AM,10:08:06 PM,1,Stomach Ache,Admitted
+429,51,4:59:44 AM,7:25:08 PM,2,Migraine,Admitted
+430,52,5:21:30 AM,7:45:13 AM,3,Stomach Ache,Admitted
+431,53,5:29:27 AM,10:21:15 AM,3,Migraine,Admitted
+432,54,5:48:45 AM,7:04:50 AM,3,Chest Pain,Admitted
+433,3,6:17:26 AM,12:12:25 AM,4,Bleeding,Admitted
+434,55,6:49:16 AM,5:26:02 PM,4,Chest Pain,Admitted
+435,56,7:18:06 AM,5:19:10 AM,5,Car Accident,Admitted
+436,57,7:45:14 AM,9:20:40 AM,5,Chest Pain,Admitted
+443,63,9:41:02 AM,7:57:14 AM,5,Chest Pain,Admitted
+444,64,10:11:06 AM,11:10:14 AM,5,Chest Pain,Admitted
+446,66,10:49:26 AM,1:54:15 PM,2,Pneumonia,Admitted
+447,67,11:01:58 AM,6:24:54 PM,3,Pneumonia,Admitted
+448,68,11:17:16 AM,2:13:15 AM,4,Pneumonia,Admitted
+449,69,11:34:26 AM,10:37:53 PM,2,Pneumonia,Admitted
+460,144,2:55:45 PM,5:52:32 PM,1,Fever,Admitted
+461,145,3:25:07 PM,4:30:30 AM,4,Pneumonia,Admitted
+462,146,3:39:57 PM,2:00:04 AM,5,Shortness of Breath,Admitted
+463,107,4:02:17 PM,11:21:59 AM,2,Shortness of Breath,Admitted
+468,115,5:29:30 PM,5:39:33 PM,5,Fever,Admitted
+469,171,5:33:58 PM,11:04:53 PM,5,Gun Shot,Admitted
+470,172,5:38:19 PM,10:08:03 AM,4,Pneumonia,Admitted
+471,173,5:59:44 PM,4:53:53 AM,2,Shortness of Breath,Admitted
+472,174,6:12:14 PM,1:46:37 AM,3,Migraine,Admitted
+473,175,6:33:29 PM,4:54:33 PM,4,Pneumonia,Admitted
+474,176,6:43:13 PM,8:10:22 PM,2,Pneumonia,Admitted
+475,177,7:01:28 PM,4:30:55 AM,5,Pneumonia,Admitted
+476,178,7:16:41 PM,7:09:15 AM,5,Accident,Admitted
+487,233,11:03:29 PM,10:18:42 PM,5,Chest Pain,Admitted
+488,234,11:06:41 PM,6:10:06 PM,1,Stomach Ache,Admitted
+499,245,3:14:38 AM,1:59:07 AM,2,Migraine,Admitted
+500,246,3:19:15 AM,1:13:14 PM,3,Stomach Ache,Admitted
+501,247,3:39:56 AM,2:15:41 PM,3,Migraine,Admitted
+502,248,4:09:46 AM,1:03:49 AM,3,Chest Pain,Admitted
+503,249,4:23:23 AM,6:09:22 AM,4,Bleeding,Admitted
+504,250,4:44:32 AM,11:26:07 AM,4,Chest Pain,Admitted
+505,251,5:02:30 AM,12:04:20 PM,5,Car Accident,Admitted
+506,252,5:22:48 AM,6:57:15 AM,5,Chest Pain,Admitted
+513,259,7:10:43 AM,9:00:39 PM,5,Chest Pain,Admitted
+514,260,7:34:48 AM,7:34:58 PM,5,Chest Pain,Admitted
+516,262,7:47:30 AM,1:49:45 AM,2,Pneumonia,Admitted
+517,263,8:15:46 AM,5:11:03 PM,3,Pneumonia,Admitted
+518,264,8:48:33 AM,5:44:59 PM,4,Pneumonia,Admitted
+519,265,9:23:54 AM,5:25:40 PM,2,Pneumonia,Admitted
+530,276,12:16:25 PM,9:41:17 PM,1,Fever,Admitted
+531,277,12:19:00 PM,12:30:56 PM,4,Pneumonia,Admitted
+532,278,12:20:07 PM,7:55:33 PM,5,Shortness of Breath,Admitted
+533,279,12:39:02 PM,1:37:28 AM,2,Shortness of Breath,Admitted
+538,284,2:10:23 PM,3:34:00 AM,5,Fever,Admitted
+539,285,2:26:13 PM,6:25:55 AM,5,Gun Shot,Admitted
+540,286,2:40:17 PM,3:01:43 PM,4,Pneumonia,Admitted
+541,287,3:00:23 PM,2:20:31 PM,2,Shortness of Breath,Admitted
+542,288,3:20:00 PM,11:35:17 AM,3,Migraine,Admitted
+543,289,3:40:34 PM,4:00:19 PM,4,Pneumonia,Admitted
+544,290,4:06:28 PM,1:35:48 PM,2,Pneumonia,Admitted
+545,291,4:18:10 PM,8:47:37 PM,5,Pneumonia,Admitted
+546,292,4:45:08 PM,5:42:38 AM,5,Accident,Admitted
+557,303,8:21:34 PM,7:04:46 AM,5,Chest Pain,Admitted
+558,304,8:54:18 PM,4:38:39 AM,2,Fever,Admitted
+563,309,10:27:55 PM,11:21:19 PM,5,Accident,Admitted
+564,310,10:58:45 PM,12:07:38 AM,5,Accident,Admitted
+565,311,11:20:55 PM,1:12:42 AM,4,Shortness of Breath,Admitted
+566,312,11:24:55 PM,7:47:07 AM,2,Shortness of Breath,Admitted
+567,313,11:54:48 PM,2:49:37 AM,1,Stomach Ache,Admitted
+578,324,2:55:18 AM,3:03:35 PM,2,Migraine,Admitted
+579,325,3:13:00 AM,11:34:25 PM,3,Stomach Ache,Admitted
+580,326,3:25:48 AM,3:23:00 AM,3,Migraine,Admitted
+581,327,3:44:28 AM,1:09:12 PM,3,Chest Pain,Admitted
+582,328,4:04:44 AM,3:30:37 PM,4,Bleeding,Admitted
+583,329,4:39:37 AM,9:55:07 AM,4,Chest Pain,Admitted
+584,330,4:59:31 AM,2:42:11 PM,5,Car Accident,Admitted
+585,331,5:29:16 AM,4:19:21 AM,5,Chest Pain,Admitted
+592,338,7:10:11 AM,5:37:10 PM,5,Chest Pain,Admitted
+593,339,7:20:35 AM,12:27:28 PM,5,Chest Pain,Admitted
+595,341,8:02:56 AM,4:06:46 PM,2,Pneumonia,Admitted
+596,342,8:21:08 AM,10:02:41 AM,3,Pneumonia,Admitted
+597,343,8:44:06 AM,8:05:58 PM,4,Pneumonia,Admitted
+598,344,9:02:54 AM,4:08:28 PM,2,Pneumonia,Admitted
+609,355,11:56:55 AM,1:31:26 PM,1,Fever,Admitted
+610,356,11:59:57 AM,12:39:22 AM,4,Pneumonia,Admitted
+611,357,12:21:53 PM,4:29:49 AM,5,Shortness of Breath,Admitted
+612,358,12:48:38 PM,5:24:13 AM,2,Shortness of Breath,Admitted
+617,363,2:52:34 PM,9:04:25 PM,5,Fever,Admitted
+618,364,2:54:19 PM,11:44:36 AM,5,Gun Shot,Admitted
+619,365,3:26:34 PM,12:04:46 PM,4,Pneumonia,Admitted
+620,366,3:34:55 PM,2:20:49 AM,2,Shortness of Breath,Admitted
+621,367,3:57:40 PM,10:14:07 PM,3,Migraine,Admitted
+622,368,4:00:45 PM,8:46:03 PM,4,Pneumonia,Admitted
+623,369,4:03:48 PM,3:56:31 AM,2,Pneumonia,Admitted
+624,370,4:07:25 PM,2:27:03 AM,5,Pneumonia,Admitted
+625,371,4:14:29 PM,4:32:36 PM,5,Accident,Admitted
+636,382,7:10:08 PM,12:36:28 PM,5,Chest Pain,Admitted
+637,383,7:34:19 PM,9:00:54 PM,2,Fever,Admitted
+642,388,9:12:54 PM,2:00:02 AM,5,Accident,Admitted
+643,389,9:46:46 PM,11:52:46 AM,5,Accident,Admitted
+644,390,9:51:48 PM,1:32:39 AM,1,Stomach Ache,Admitted
+655,401,12:36:02 AM,5:07:46 AM,2,Migraine,Admitted
+656,402,12:58:54 AM,2:56:14 PM,3,Stomach Ache,Admitted
+657,403,1:18:53 AM,6:06:48 AM,3,Migraine,Admitted
+658,404,1:21:28 AM,9:59:10 AM,3,Chest Pain,Admitted
+659,405,1:23:33 AM,4:13:22 PM,4,Bleeding,Admitted
+660,406,1:28:23 AM,7:20:14 AM,4,Chest Pain,Admitted
+661,407,1:47:08 AM,4:21:21 AM,5,Car Accident,Admitted
+662,408,2:00:13 AM,1:07:19 AM,5,Chest Pain,Admitted
+669,415,3:19:21 AM,6:25:29 AM,5,Chest Pain,Admitted
+670,416,3:43:50 AM,5:03:43 AM,5,Chest Pain,Admitted
+672,418,4:21:03 AM,7:02:15 AM,2,Pneumonia,Admitted
+673,419,4:54:01 AM,6:55:01 PM,3,Pneumonia,Admitted
+674,420,5:00:07 AM,3:23:15 PM,4,Pneumonia,Admitted
+675,421,5:28:10 AM,5:09:33 AM,2,Pneumonia,Admitted
+686,432,9:11:55 AM,5:20:32 AM,1,Fever,Admitted
+687,433,9:17:57 AM,3:01:50 AM,4,Pneumonia,Admitted
+688,434,9:20:22 AM,5:02:03 AM,5,Shortness of Breath,Admitted
+689,435,9:29:41 AM,9:22:17 AM,2,Shortness of Breath,Admitted
+694,440,11:39:21 AM,11:56:08 AM,5,Fever,Admitted
+695,441,12:01:16 PM,7:41:19 PM,5,Gun Shot,Admitted
+696,442,12:08:17 PM,5:37:01 AM,4,Pneumonia,Admitted
+697,443,12:15:09 PM,1:27:33 PM,2,Shortness of Breath,Admitted
+698,444,12:46:22 PM,1:53:28 PM,3,Migraine,Admitted
+699,445,12:55:52 PM,4:12:23 PM,4,Pneumonia,Admitted
+700,446,1:18:17 PM,4:55:10 AM,2,Pneumonia,Admitted
+701,447,1:33:29 PM,10:43:29 PM,5,Pneumonia,Admitted
+702,448,2:01:48 PM,7:46:55 AM,5,Accident,Admitted
+713,459,5:27:26 PM,6:42:12 PM,5,Chest Pain,Admitted
+714,460,5:46:16 PM,3:07:21 PM,2,Fever,Admitted
+717,463,6:46:03 PM,9:04:56 PM,1,Stomach Ache,Admitted
+728,474,10:55:57 PM,12:01:42 PM,2,Migraine,Admitted
+729,475,11:22:50 PM,1:27:20 AM,3,Stomach Ache,Admitted
+730,476,11:36:54 PM,12:14:53 PM,3,Migraine,Admitted
+731,477,11:49:25 PM,5:12:54 PM,3,Chest Pain,Admitted
+732,478,12:09:22 AM,7:39:57 PM,4,Bleeding,Admitted
+733,479,12:24:18 AM,2:23:25 AM,4,Chest Pain,Admitted
+734,480,12:47:33 AM,10:32:17 AM,5,Car Accident,Admitted
+735,481,1:18:53 AM,2:50:44 PM,5,Chest Pain,Admitted
+742,488,4:02:18 AM,8:16:17 AM,5,Chest Pain,Admitted
+743,489,4:33:11 AM,5:56:34 PM,5,Chest Pain,Admitted
+745,491,5:24:57 AM,1:26:26 PM,2,Pneumonia,Admitted
+746,492,5:30:19 AM,8:26:23 PM,3,Pneumonia,Admitted
+747,493,5:59:24 AM,6:04:02 PM,4,Pneumonia,Admitted
+748,494,6:23:16 AM,6:12:15 PM,2,Pneumonia,Admitted
+759,505,9:40:38 AM,9:54:38 PM,1,Fever,Admitted
+760,506,9:43:22 AM,11:10:58 AM,4,Pneumonia,Admitted
+761,507,9:59:19 AM,2:10:52 PM,5,Shortness of Breath,Admitted
+762,508,10:16:45 AM,5:49:21 PM,2,Shortness of Breath,Admitted
+767,513,12:01:50 PM,1:05:04 PM,5,Fever,Admitted
+768,514,12:02:15 PM,6:56:53 PM,5,Gun Shot,Admitted
+769,515,12:29:40 PM,1:45:36 PM,4,Pneumonia,Admitted
+770,516,12:34:35 PM,12:59:52 AM,2,Shortness of Breath,Admitted
+771,517,12:51:42 PM,2:55:28 PM,3,Migraine,Admitted
+772,518,12:53:02 PM,11:35:31 PM,4,Pneumonia,Admitted
+773,519,1:23:51 PM,10:35:31 PM,2,Pneumonia,Admitted
+774,520,1:50:18 PM,11:25:20 PM,5,Pneumonia,Admitted
+775,521,2:10:40 PM,5:13:46 PM,5,Accident,Admitted
+786,532,5:42:52 PM,5:31:56 PM,5,Chest Pain,Admitted
+787,533,6:15:49 PM,12:03:02 PM,2,Fever,Admitted
+792,538,7:36:56 PM,9:40:12 AM,5,Accident,Admitted
+793,539,7:58:40 PM,7:52:58 AM,5,Accident,Admitted
+794,540,8:07:56 PM,11:32:59 AM,4,Shortness of Breath,Admitted
+795,541,8:15:48 PM,10:39:20 PM,2,Shortness of Breath,Admitted
+796,542,8:49:49 PM,3:44:13 AM,1,Stomach Ache,Admitted
+807,553,12:32:49 AM,10:23:21 AM,2,Migraine,Admitted
+808,554,1:08:12 AM,11:44:06 PM,3,Stomach Ache,Admitted
+809,555,1:33:15 AM,5:36:01 PM,3,Migraine,Admitted
+810,556,1:50:14 AM,2:05:39 PM,3,Chest Pain,Admitted
+811,557,1:55:44 AM,3:37:15 PM,4,Bleeding,Admitted
+812,558,2:15:26 AM,10:17:34 AM,4,Chest Pain,Admitted
+813,559,2:41:26 AM,3:47:23 PM,5,Car Accident,Admitted
+814,560,2:48:46 AM,12:14:20 PM,5,Chest Pain,Admitted
+821,567,4:07:43 AM,6:00:55 PM,5,Chest Pain,Admitted
+822,568,4:23:54 AM,2:06:09 PM,5,Chest Pain,Admitted
+824,570,4:31:12 AM,1:57:13 AM,2,Pneumonia,Admitted
+825,571,4:49:00 AM,1:49:32 AM,3,Pneumonia,Admitted
+826,572,5:00:31 AM,4:34:53 PM,4,Pneumonia,Admitted
+827,573,5:07:59 AM,8:31:28 PM,2,Pneumonia,Admitted
+838,584,9:12:21 AM,11:19:31 AM,1,Fever,Admitted
+839,585,9:30:46 AM,11:28:56 PM,4,Pneumonia,Admitted
+840,586,9:32:44 AM,4:32:19 AM,5,Shortness of Breath,Admitted
+841,587,9:34:43 AM,10:26:18 PM,2,Shortness of Breath,Admitted
+846,592,11:17:52 AM,4:43:02 PM,5,Fever,Admitted
+847,593,11:20:17 AM,2:46:57 PM,5,Gun Shot,Admitted
+848,594,11:22:45 AM,5:44:07 AM,4,Pneumonia,Admitted
+849,595,11:43:07 AM,6:14:26 AM,2,Shortness of Breath,Admitted
+850,596,12:05:16 PM,6:10:21 PM,3,Migraine,Admitted
+851,597,12:16:59 PM,10:50:48 AM,4,Pneumonia,Admitted
+852,598,12:43:16 PM,5:51:30 PM,2,Pneumonia,Admitted
+853,599,1:07:22 PM,11:39:52 PM,5,Pneumonia,Admitted
+854,600,1:43:00 PM,9:27:21 AM,5,Accident,Admitted
+865,611,4:37:43 PM,6:57:51 PM,5,Chest Pain,Admitted
+866,612,4:42:46 PM,1:48:50 PM,2,Fever,Admitted
+868,614,5:39:17 PM,5:39:33 PM,1,Stomach Ache,Admitted
+879,625,8:43:18 PM,3:57:10 PM,2,Migraine,Admitted
+880,626,8:45:48 PM,4:27:19 PM,3,Stomach Ache,Admitted
+881,627,8:56:33 PM,2:02:09 PM,3,Migraine,Admitted
+882,628,9:25:27 PM,1:40:46 PM,3,Chest Pain,Admitted
+883,629,9:36:31 PM,12:50:28 PM,4,Bleeding,Admitted
+884,630,9:40:35 PM,6:12:28 PM,4,Chest Pain,Admitted
+885,631,10:05:39 PM,3:06:00 AM,5,Car Accident,Admitted
+886,632,10:24:44 PM,10:27:34 AM,5,Chest Pain,Admitted
+893,639,11:24:53 PM,7:28:50 AM,5,Chest Pain,Admitted
+894,640,11:54:36 PM,12:49:59 AM,5,Chest Pain,Admitted
+896,642,12:31:52 AM,9:06:30 AM,2,Pneumonia,Admitted
+897,643,12:32:58 AM,6:40:08 AM,3,Pneumonia,Admitted
+898,644,12:54:41 AM,6:14:39 AM,4,Pneumonia,Admitted
+899,645,1:27:46 AM,4:05:12 AM,2,Pneumonia,Admitted
+910,656,4:43:36 AM,3:41:20 AM,1,Fever,Admitted
+911,657,5:06:52 AM,3:59:00 AM,4,Pneumonia,Admitted
+912,658,5:29:49 AM,3:25:17 AM,5,Shortness of Breath,Admitted
+913,659,5:54:57 AM,4:00:55 PM,2,Shortness of Breath,Admitted
+918,664,7:16:18 AM,11:54:44 AM,5,Fever,Admitted
+919,665,7:31:03 AM,10:48:53 AM,5,Gun Shot,Admitted
+920,666,8:03:03 AM,10:23:36 PM,4,Pneumonia,Admitted
+921,667,8:17:29 AM,3:59:46 PM,2,Shortness of Breath,Admitted
+922,668,8:34:41 AM,12:41:45 AM,3,Migraine,Admitted
+923,669,8:44:06 AM,5:10:58 PM,4,Pneumonia,Admitted
+924,670,8:45:32 AM,5:40:34 AM,2,Pneumonia,Admitted
+925,671,8:52:46 AM,2:58:11 AM,5,Pneumonia,Admitted
+926,672,9:08:46 AM,8:43:32 PM,5,Accident,Admitted
+937,683,12:33:03 PM,2:25:54 PM,5,Chest Pain,Admitted
+938,684,12:42:37 PM,12:48:18 AM,2,Fever,Admitted
+943,689,1:30:48 PM,8:36:42 AM,5,Accident,Admitted
+944,690,1:51:14 PM,9:10:09 PM,5,Accident,Admitted
+945,691,2:00:41 PM,9:22:56 PM,4,Shortness of Breath,Admitted
+946,692,2:01:50 PM,10:31:38 PM,1,Stomach Ache,Admitted
+957,703,6:09:56 PM,6:13:30 AM,2,Migraine,Admitted
+958,704,6:14:59 PM,8:16:36 AM,3,Stomach Ache,Admitted
+959,705,6:25:53 PM,8:15:02 AM,3,Migraine,Admitted
+960,706,6:47:21 PM,7:45:26 AM,3,Chest Pain,Admitted
+961,707,6:51:00 PM,11:07:05 PM,4,Bleeding,Admitted
+962,708,7:15:26 PM,7:43:21 AM,4,Chest Pain,Admitted
+963,709,7:20:55 PM,6:38:08 PM,5,Car Accident,Admitted
+964,710,7:41:53 PM,8:18:42 AM,5,Chest Pain,Admitted
+971,717,10:26:49 PM,3:22:18 AM,5,Chest Pain,Admitted
+972,718,10:45:16 PM,2:27:22 AM,5,Chest Pain,Admitted
+974,720,11:34:49 PM,8:01:40 AM,2,Pneumonia,Admitted
+975,721,12:08:08 AM,12:12:15 AM,3,Pneumonia,Admitted
+976,722,12:37:35 AM,1:05:59 PM,4,Pneumonia,Admitted
+977,723,1:04:07 AM,7:00:29 AM,2,Pneumonia,Admitted
+988,734,4:05:31 AM,9:15:20 AM,1,Fever,Admitted
+989,735,4:13:53 AM,11:18:57 PM,4,Pneumonia,Admitted
+990,736,4:37:19 AM,7:14:14 PM,5,Shortness of Breath,Admitted
+991,737,4:57:35 AM,10:33:17 AM,2,Shortness of Breath,Admitted
+996,742,5:54:47 AM,11:59:22 PM,5,Fever,Admitted
+997,743,6:01:19 AM,7:24:37 PM,5,Gun Shot,Admitted
+998,744,6:01:27 AM,12:44:48 PM,4,Pneumonia,Admitted
+999,745,6:35:43 AM,5:17:01 AM,2,Shortness of Breath,Admitted
+1000,746,7:04:28 AM,4:26:35 AM,3,Migraine,Admitted
+1001,747,7:10:30 AM,1:06:58 AM,4,Pneumonia,Admitted
+1002,748,7:46:17 AM,2:17:17 AM,2,Pneumonia,Admitted
+1003,749,8:15:44 AM,6:06:33 AM,5,Pneumonia,Admitted
+1004,750,8:24:07 AM,3:16:23 AM,5,Accident,Admitted
+1015,761,11:42:46 AM,4:15:27 AM,5,Chest Pain,Admitted
+1016,762,11:58:33 AM,4:37:22 PM,2,Fever,Admitted
+1018,764,12:47:32 PM,1:49:59 PM,1,Stomach Ache,Admitted
+1029,775,3:58:37 PM,8:51:03 PM,2,Migraine,Admitted
+1030,776,4:11:04 PM,5:50:18 PM,3,Stomach Ache,Admitted
+1031,777,4:41:18 PM,6:32:00 AM,3,Migraine,Admitted
+1032,778,4:56:06 PM,2:22:56 AM,3,Chest Pain,Admitted
+1033,779,4:59:24 PM,3:21:49 PM,4,Bleeding,Admitted
+1034,780,5:25:45 PM,7:19:40 AM,4,Chest Pain,Admitted
+1035,781,5:27:29 PM,3:04:13 AM,5,Car Accident,Admitted
+1036,782,5:33:52 PM,7:01:52 PM,5,Chest Pain,Admitted
+1043,789,7:30:17 PM,6:54:00 PM,5,Chest Pain,Admitted
+1044,790,7:59:31 PM,5:48:31 PM,5,Chest Pain,Admitted
+1046,792,8:30:41 PM,7:34:40 PM,2,Pneumonia,Admitted
+1047,793,8:43:09 PM,10:22:00 AM,3,Pneumonia,Admitted
+1048,794,9:15:25 PM,2:33:01 AM,4,Pneumonia,Admitted
+1049,795,9:17:00 PM,12:45:35 PM,2,Pneumonia,Admitted
+1060,806,11:57:53 PM,7:03:14 AM,1,Fever,Admitted
+1061,807,12:12:54 AM,4:13:21 PM,4,Pneumonia,Admitted
+1062,808,12:35:19 AM,6:25:07 PM,5,Shortness of Breath,Admitted
+1063,809,12:44:34 AM,8:05:22 AM,2,Shortness of Breath,Admitted
+1068,814,1:51:56 AM,3:46:27 PM,5,Fever,Admitted
+1069,815,2:22:47 AM,4:16:24 PM,5,Gun Shot,Admitted
+1070,816,2:27:40 AM,2:51:07 AM,4,Pneumonia,Admitted
+1071,817,2:50:31 AM,5:16:32 AM,2,Shortness of Breath,Admitted
+1072,818,2:54:48 AM,5:53:45 PM,3,Migraine,Admitted
+1073,819,3:00:43 AM,5:36:20 PM,4,Pneumonia,Admitted
+1074,820,3:21:49 AM,9:02:57 PM,2,Pneumonia,Admitted
+1075,821,3:48:34 AM,3:02:45 PM,5,Pneumonia,Admitted
+1076,822,4:13:29 AM,5:35:32 AM,5,Accident,Admitted
+1087,833,6:46:37 AM,4:47:58 PM,5,Chest Pain,Admitted
+1088,834,6:54:57 AM,11:30:00 AM,2,Fever,Admitted
+1093,839,7:28:42 AM,8:01:19 AM,5,Accident,Admitted
+1094,840,8:01:13 AM,7:59:54 PM,5,Accident,Admitted
+1095,841,8:19:31 AM,7:46:15 PM,4,Shortness of Breath,Admitted
+1096,842,8:40:26 AM,4:40:17 PM,2,Shortness of Breath,Admitted
+1097,843,9:15:19 AM,5:56:19 AM,1,Stomach Ache,Admitted
+1108,854,11:54:33 AM,2:06:05 PM,2,Migraine,Admitted
+1109,855,12:16:32 PM,1:39:14 PM,3,Stomach Ache,Admitted
+1110,856,12:26:18 PM,8:05:42 PM,3,Migraine,Admitted
+1111,857,12:26:46 PM,7:50:47 AM,3,Chest Pain,Admitted
+1112,858,1:01:21 PM,9:41:33 AM,4,Bleeding,Admitted
+1113,859,1:31:29 PM,6:33:56 AM,4,Chest Pain,Admitted
+1114,860,1:34:02 PM,11:31:32 AM,5,Car Accident,Admitted
+1115,861,1:46:31 PM,7:54:24 AM,1,Stomach Ache,Admitted
+1126,872,3:58:46 PM,9:09:13 AM,2,Migraine,Admitted
+1127,873,4:15:15 PM,7:37:15 AM,3,Stomach Ache,Admitted
+1128,874,4:29:39 PM,11:31:22 PM,3,Migraine,Admitted
+1129,875,4:50:58 PM,9:12:24 PM,3,Chest Pain,Admitted
+1130,876,5:02:29 PM,12:53:42 AM,4,Bleeding,Admitted
+1131,877,5:24:37 PM,8:10:57 AM,4,Chest Pain,Admitted
+1132,878,6:00:01 PM,11:25:24 PM,5,Car Accident,Admitted
+1133,879,6:34:23 PM,6:54:23 PM,5,Chest Pain,Admitted
+1140,886,8:48:25 PM,4:59:13 AM,5,Chest Pain,Admitted
+1141,887,9:15:17 PM,1:55:11 PM,5,Chest Pain,Admitted
+1143,889,9:28:15 PM,9:27:59 PM,2,Pneumonia,Admitted
+1144,890,10:00:47 PM,6:17:03 PM,3,Pneumonia,Admitted
+1145,891,10:17:56 PM,3:14:50 PM,4,Pneumonia,Admitted
+1146,892,10:44:43 PM,10:18:36 AM,2,Pneumonia,Admitted
+1157,903,1:59:30 AM,2:03:13 AM,1,Fever,Admitted
+1158,904,2:06:42 AM,7:04:02 AM,4,Pneumonia,Admitted
+1159,905,2:39:13 AM,7:57:10 PM,5,Shortness of Breath,Admitted
+1160,906,3:04:24 AM,8:30:38 AM,2,Shortness of Breath,Admitted
+1165,911,4:35:24 AM,1:10:06 AM,5,Fever,Admitted
+1166,912,4:45:42 AM,11:58:45 PM,5,Gun Shot,Admitted
+1167,913,5:09:23 AM,3:57:13 AM,4,Pneumonia,Admitted
+1168,914,5:24:23 AM,6:47:57 AM,2,Shortness of Breath,Admitted
+1169,915,5:30:03 AM,6:47:12 PM,3,Migraine,Admitted
+1170,916,5:57:30 AM,6:03:51 AM,4,Pneumonia,Admitted
+1171,917,6:27:24 AM,10:16:04 AM,2,Pneumonia,Admitted
+1172,918,6:51:44 AM,4:27:42 PM,5,Pneumonia,Admitted
+1173,919,6:56:53 AM,8:32:16 AM,5,Accident,Admitted
+1184,930,11:11:35 AM,12:55:53 AM,5,Chest Pain,Admitted
+1185,931,11:46:00 AM,11:56:03 AM,2,Fever,Admitted
+1190,936,1:01:27 PM,7:50:28 AM,5,Accident,Admitted
+1191,937,1:03:57 PM,2:07:11 PM,5,Accident,Admitted
+1192,938,1:31:41 PM,1:12:14 PM,4,Shortness of Breath,Admitted
+1193,939,1:47:48 PM,5:20:50 PM,2,Shortness of Breath,Admitted
+1194,940,2:21:51 PM,3:58:31 AM,5,Accident,Admitted
+1195,941,2:52:38 PM,1:08:29 PM,4,Shortness of Breath,Admitted
+1196,942,3:21:47 PM,1:18:51 AM,5,Accident,Admitted
+1197,943,3:40:40 PM,11:50:08 PM,4,Shortness of Breath,Admitted
+1198,944,3:48:24 PM,5:35:39 PM,2,Shortness of Breath,Admitted
+1199,945,4:23:59 PM,11:23:58 AM,3,Shortness of Breath,Admitted
+2,2,12:00:40 AM,11:46:34 AM,1,Migraine,Discharged
+3,3,12:01:30 AM,2:07:38 AM,1,Pneumonia,Discharged
+4,4,12:36:23 AM,6:36:25 AM,1,Fever,Discharged
+5,5,12:38:16 AM,1:19:43 PM,1,Fever,Discharged
+6,6,12:39:23 AM,5:16:35 AM,1,Fever,Discharged
+7,7,12:51:43 AM,8:26:43 PM,1,Stomach Ache,Discharged
+8,8,1:15:36 AM,12:07:25 AM,2,Migraine,Discharged
+9,9,1:39:14 AM,4:12:28 AM,2,Stomach Ache,Discharged
+10,10,2:02:03 AM,8:28:27 AM,2,Migraine,Discharged
+11,11,2:18:53 AM,6:52:05 PM,2,Stomach Ache,Discharged
+20,20,4:59:55 AM,3:29:57 AM,1,Bleeding,Discharged
+21,21,5:00:19 AM,1:46:42 PM,1,Fever,Discharged
+22,22,5:04:28 AM,10:34:45 PM,1,Fever,Discharged
+23,23,5:19:55 AM,7:01:39 AM,1,Fever,Discharged
+24,24,5:36:15 AM,1:17:03 PM,1,Fever,Discharged
+25,25,6:02:38 AM,1:37:20 AM,1,Laceration,Discharged
+28,28,6:41:11 AM,5:23:30 AM,4,Laceration,Discharged
+33,33,8:13:00 AM,2:06:08 AM,5,Shortness of Breath,Discharged
+34,34,8:36:00 AM,3:44:28 AM,5,Shortness of Breath,Discharged
+35,35,9:03:34 AM,7:15:04 AM,1,Fever,Discharged
+36,36,9:11:53 AM,8:07:28 AM,1,Stomach Ache,Discharged
+37,37,9:20:00 AM,5:25:03 PM,1,Migraine,Discharged
+38,38,9:54:42 AM,2:17:29 PM,1,Shortness of Breath,Discharged
+39,39,10:03:22 AM,6:51:27 PM,1,Shortness of Breath,Discharged
+40,40,10:25:09 AM,3:34:38 AM,1,Fever,Discharged
+41,41,10:54:08 AM,1:29:02 PM,1,Shortness of Breath,Discharged
+42,42,11:05:26 AM,6:42:26 AM,1,Fever,Discharged
+47,47,12:28:56 PM,3:25:14 PM,1,Stomach Ache,Discharged
+48,48,12:52:07 PM,7:18:46 PM,1,Migraine,Discharged
+49,49,1:21:35 PM,3:50:13 AM,1,Stomach Ache,Discharged
+50,50,1:40:29 PM,12:06:09 PM,1,Migraine,Discharged
+60,3,4:07:19 PM,5:14:06 AM,1,Intoxication,Discharged
+61,59,4:27:54 PM,12:26:28 PM,1,Intoxication,Discharged
+62,60,4:32:50 PM,11:04:02 PM,1,Fever,Discharged
+63,61,4:51:03 PM,12:25:32 PM,1,Stomach Ache,Discharged
+64,62,5:14:21 PM,2:02:48 AM,1,Migraine,Discharged
+65,63,5:17:55 PM,2:59:56 AM,1,Stomach Ache,Discharged
+66,64,5:20:58 PM,12:22:16 AM,1,Stomach Ache,Discharged
+67,65,5:53:30 PM,5:01:23 AM,1,Stomach Ache,Discharged
+68,66,5:58:28 PM,1:56:02 AM,1,Fever,Discharged
+69,67,6:17:31 PM,3:17:05 PM,4,Chest Pain,Discharged
+72,70,7:06:36 PM,8:03:42 PM,1,Pneumonia,Discharged
+73,3,7:32:44 PM,12:14:13 AM,1,Pneumonia,Discharged
+74,71,8:07:10 PM,5:47:50 PM,1,Pneumonia,Discharged
+75,72,8:37:11 PM,2:37:35 AM,1,Pneumonia,Discharged
+86,83,11:23:23 PM,8:36:59 PM,1,Fever,Discharged
+87,84,11:34:36 PM,4:02:06 PM,1,Fever,Discharged
+88,85,11:46:56 PM,7:52:33 PM,1,Pneumonia,Discharged
+89,86,11:59:11 PM,12:27:19 AM,1,Fever,Discharged
+90,87,12:00:26 AM,6:16:02 AM,1,Fever,Discharged
+91,88,12:15:52 AM,3:47:52 PM,1,Shortness of Breath,Discharged
+92,89,12:32:42 AM,5:55:15 PM,1,Fever,Discharged
+93,90,12:57:36 AM,1:35:03 AM,1,Cough,Discharged
+96,5,1:22:59 AM,8:29:31 AM,2,Shortness of Breath,Discharged
+97,6,1:24:05 AM,12:52:23 PM,1,Stomach Ache,Discharged
+98,7,1:33:47 AM,11:36:20 AM,2,Migraine,Discharged
+103,12,2:29:51 AM,2:34:12 AM,1,Migraine,Discharged
+104,13,2:56:34 AM,10:56:34 PM,1,Pneumonia,Discharged
+105,14,3:08:59 AM,8:30:04 AM,1,Fever,Discharged
+106,15,3:32:43 AM,8:51:44 AM,1,Fever,Discharged
+107,16,3:57:29 AM,2:59:18 AM,1,Fever,Discharged
+108,17,4:27:48 AM,6:22:20 AM,1,Stomach Ache,Discharged
+109,18,4:48:51 AM,8:01:54 AM,2,Migraine,Discharged
+110,19,5:00:39 AM,7:27:09 PM,2,Stomach Ache,Discharged
+111,20,5:19:44 AM,8:10:19 AM,2,Migraine,Discharged
+112,21,5:36:48 AM,5:17:03 PM,2,Stomach Ache,Discharged
+121,30,8:12:23 AM,12:01:45 PM,1,Bleeding,Discharged
+122,31,8:42:25 AM,7:37:55 PM,1,Fever,Discharged
+123,32,9:02:49 AM,2:26:44 PM,1,Fever,Discharged
+124,33,9:36:09 AM,12:56:33 AM,1,Fever,Discharged
+125,34,9:42:22 AM,1:08:13 AM,1,Fever,Discharged
+126,35,9:50:35 AM,4:00:52 PM,1,Laceration,Discharged
+129,38,10:29:25 AM,10:50:11 AM,4,Laceration,Discharged
+134,43,11:26:08 AM,5:06:14 AM,5,Shortness of Breath,Discharged
+135,44,11:48:27 AM,11:25:53 PM,5,Shortness of Breath,Discharged
+136,45,11:59:16 AM,7:08:30 AM,1,Fever,Discharged
+137,46,12:05:01 PM,11:42:44 AM,1,Stomach Ache,Discharged
+138,47,12:09:40 PM,7:39:28 AM,1,Migraine,Discharged
+139,48,12:21:44 PM,12:22:30 AM,1,Shortness of Breath,Discharged
+140,49,12:37:47 PM,3:38:15 AM,1,Shortness of Breath,Discharged
+141,50,1:01:17 PM,7:55:50 PM,1,Fever,Discharged
+142,51,1:07:52 PM,4:26:08 AM,1,Shortness of Breath,Discharged
+143,52,1:32:21 PM,12:43:21 PM,1,Fever,Discharged
+148,57,3:47:28 PM,10:16:59 PM,1,Stomach Ache,Discharged
+149,58,4:03:47 PM,11:39:39 PM,1,Migraine,Discharged
+150,59,4:31:15 PM,2:50:16 AM,1,Stomach Ache,Discharged
+151,60,4:47:01 PM,1:37:54 PM,1,Migraine,Discharged
+161,70,7:06:58 PM,7:19:26 AM,1,Intoxication,Discharged
+162,71,7:22:06 PM,6:23:45 AM,1,Intoxication,Discharged
+163,72,7:56:07 PM,2:07:09 PM,1,Fever,Discharged
+164,73,8:28:24 PM,7:02:16 AM,1,Stomach Ache,Discharged
+165,74,8:59:24 PM,1:25:45 AM,1,Migraine,Discharged
+166,75,9:27:51 PM,2:41:53 PM,1,Stomach Ache,Discharged
+167,76,9:27:57 PM,3:12:27 AM,1,Stomach Ache,Discharged
+168,77,9:34:28 PM,8:13:54 AM,1,Stomach Ache,Discharged
+169,78,9:35:45 PM,1:33:16 AM,1,Fever,Discharged
+170,79,9:46:45 PM,8:26:23 AM,4,Chest Pain,Discharged
+173,82,11:08:55 PM,1:44:44 AM,1,Pneumonia,Discharged
+174,83,11:25:16 PM,6:15:25 PM,1,Pneumonia,Discharged
+175,84,11:42:32 PM,3:52:00 AM,1,Pneumonia,Discharged
+176,85,12:13:12 AM,4:04:41 PM,1,Pneumonia,Discharged
+182,91,2:23:37 AM,3:00:42 AM,1,Migraine,Discharged
+183,92,2:29:01 AM,7:35:16 PM,1,Pneumonia,Discharged
+184,93,2:53:00 AM,11:02:00 AM,1,Fever,Discharged
+185,94,2:59:55 AM,7:05:51 AM,1,Fever,Discharged
+186,95,3:00:42 AM,10:06:42 AM,1,Fever,Discharged
+187,96,3:35:06 AM,10:24:50 AM,1,Stomach Ache,Discharged
+188,97,3:58:31 AM,8:20:18 PM,2,Migraine,Discharged
+189,98,4:21:06 AM,9:56:23 PM,2,Stomach Ache,Discharged
+190,99,4:24:19 AM,8:54:59 AM,2,Migraine,Discharged
+191,100,4:44:03 AM,12:31:33 PM,2,Stomach Ache,Discharged
+200,109,7:33:10 AM,8:39:23 PM,1,Bleeding,Discharged
+201,110,7:39:58 AM,11:45:49 PM,1,Fever,Discharged
+202,111,7:55:44 AM,4:22:12 AM,1,Fever,Discharged
+203,112,8:21:05 AM,1:21:05 AM,1,Fever,Discharged
+204,113,8:35:16 AM,12:32:05 PM,1,Fever,Discharged
+205,114,8:45:32 AM,10:12:15 PM,1,Laceration,Discharged
+208,117,9:52:31 AM,10:08:09 AM,4,Laceration,Discharged
+213,122,11:13:15 AM,3:05:35 AM,5,Shortness of Breath,Discharged
+214,123,11:27:02 AM,1:23:47 AM,5,Shortness of Breath,Discharged
+215,124,12:01:13 PM,9:25:36 AM,1,Fever,Discharged
+216,125,12:10:26 PM,9:33:27 AM,1,Stomach Ache,Discharged
+217,126,12:31:59 PM,2:29:36 AM,1,Migraine,Discharged
+218,127,12:59:34 PM,2:58:08 AM,1,Shortness of Breath,Discharged
+219,128,1:29:18 PM,3:41:53 PM,1,Shortness of Breath,Discharged
+220,129,1:47:09 PM,10:02:11 PM,1,Fever,Discharged
+221,130,2:07:46 PM,4:16:53 AM,1,Shortness of Breath,Discharged
+222,131,2:31:21 PM,7:19:31 AM,1,Fever,Discharged
+227,136,3:57:48 PM,1:22:05 PM,1,Stomach Ache,Discharged
+228,137,4:14:23 PM,7:59:10 PM,1,Migraine,Discharged
+229,138,4:15:09 PM,3:52:48 PM,1,Stomach Ache,Discharged
+230,139,4:17:01 PM,12:08:33 AM,1,Migraine,Discharged
+240,149,7:47:48 PM,5:31:36 AM,1,Intoxication,Discharged
+241,150,7:57:43 PM,4:24:48 AM,1,Intoxication,Discharged
+242,151,8:04:34 PM,4:30:00 PM,1,Fever,Discharged
+243,152,8:05:49 PM,2:06:48 PM,1,Stomach Ache,Discharged
+244,153,8:35:11 PM,11:33:01 AM,1,Migraine,Discharged
+245,154,8:59:49 PM,10:09:31 AM,1,Stomach Ache,Discharged
+246,155,9:27:19 PM,4:01:57 AM,1,Stomach Ache,Discharged
+247,156,9:34:39 PM,6:43:48 AM,1,Stomach Ache,Discharged
+248,157,9:59:22 PM,2:49:09 AM,1,Fever,Discharged
+249,158,10:14:28 PM,4:42:53 PM,4,Chest Pain,Discharged
+252,161,11:15:16 PM,4:33:51 AM,1,Pneumonia,Discharged
+253,162,11:17:16 PM,4:36:10 AM,1,Pneumonia,Discharged
+254,163,11:38:04 PM,9:06:29 PM,1,Pneumonia,Discharged
+255,164,11:43:01 PM,6:11:05 PM,1,Pneumonia,Discharged
+261,170,2:19:38 AM,9:48:52 AM,1,Migraine,Discharged
+262,171,2:34:11 AM,12:39:26 AM,1,Pneumonia,Discharged
+263,172,2:49:58 AM,6:31:17 AM,1,Fever,Discharged
+264,173,2:54:34 AM,1:26:33 AM,1,Fever,Discharged
+265,174,3:16:12 AM,6:00:41 PM,1,Fever,Discharged
+266,175,3:37:38 AM,2:40:07 AM,1,Stomach Ache,Discharged
+267,176,3:48:54 AM,10:45:16 PM,2,Migraine,Discharged
+268,177,4:05:07 AM,4:04:26 PM,2,Stomach Ache,Discharged
+269,178,4:20:23 AM,8:52:10 PM,2,Migraine,Discharged
+270,179,4:35:50 AM,7:21:41 AM,2,Stomach Ache,Discharged
+279,188,7:49:32 AM,7:26:56 PM,1,Bleeding,Discharged
+280,189,8:23:24 AM,9:56:35 PM,1,Fever,Discharged
+281,190,8:37:57 AM,7:27:54 AM,1,Fever,Discharged
+282,191,9:09:59 AM,3:56:39 PM,1,Fever,Discharged
+283,192,9:30:24 AM,11:29:37 AM,1,Fever,Discharged
+284,193,10:03:54 AM,7:15:29 AM,1,Laceration,Discharged
+287,196,10:56:00 AM,11:03:24 AM,4,Laceration,Discharged
+292,201,1:17:37 PM,1:56:28 PM,5,Shortness of Breath,Discharged
+293,202,1:21:27 PM,3:11:40 PM,5,Shortness of Breath,Discharged
+294,203,1:27:51 PM,1:55:33 AM,1,Fever,Discharged
+295,204,1:46:22 PM,3:26:23 PM,1,Stomach Ache,Discharged
+296,205,1:58:42 PM,6:42:49 PM,1,Migraine,Discharged
+297,206,2:06:00 PM,2:10:20 AM,1,Shortness of Breath,Discharged
+298,207,2:34:56 PM,8:16:56 PM,1,Shortness of Breath,Discharged
+299,208,3:05:19 PM,11:17:30 AM,1,Fever,Discharged
+300,209,3:28:34 PM,11:33:42 AM,1,Shortness of Breath,Discharged
+301,210,3:44:57 PM,4:11:29 PM,1,Fever,Discharged
+306,215,5:43:11 PM,7:51:23 AM,1,Stomach Ache,Discharged
+307,216,6:10:26 PM,2:53:47 AM,1,Migraine,Discharged
+308,217,6:13:55 PM,12:25:49 PM,1,Stomach Ache,Discharged
+309,218,6:24:15 PM,9:40:31 PM,1,Migraine,Discharged
+319,228,9:08:23 PM,4:48:22 AM,1,Intoxication,Discharged
+320,229,9:35:19 PM,5:48:50 PM,1,Intoxication,Discharged
+321,230,9:36:07 PM,4:09:59 AM,1,Fever,Discharged
+322,231,9:37:09 PM,11:19:59 PM,1,Stomach Ache,Discharged
+323,232,10:09:03 PM,6:34:47 AM,1,Migraine,Discharged
+324,233,10:42:01 PM,11:05:28 PM,1,Stomach Ache,Discharged
+325,234,10:58:44 PM,4:13:50 AM,1,Stomach Ache,Discharged
+326,235,11:32:10 PM,11:36:59 AM,1,Stomach Ache,Discharged
+327,236,11:42:56 PM,5:33:50 PM,1,Fever,Discharged
+328,237,12:13:25 AM,6:42:00 AM,4,Chest Pain,Discharged
+331,240,12:58:43 AM,8:15:15 PM,1,Pneumonia,Discharged
+332,241,1:33:31 AM,3:57:34 PM,1,Pneumonia,Discharged
+333,242,1:36:46 AM,9:03:53 PM,1,Pneumonia,Discharged
+334,243,2:10:12 AM,4:21:22 AM,1,Pneumonia,Discharged
+340,249,4:07:21 AM,12:51:20 AM,1,Migraine,Discharged
+341,250,4:18:54 AM,2:30:40 PM,1,Pneumonia,Discharged
+342,251,4:30:30 AM,12:23:43 PM,1,Fever,Discharged
+343,252,4:36:06 AM,6:25:45 AM,1,Fever,Discharged
+344,253,4:51:57 AM,10:24:25 PM,1,Fever,Discharged
+345,254,5:17:50 AM,1:01:08 PM,1,Stomach Ache,Discharged
+346,255,5:36:27 AM,2:47:04 PM,2,Migraine,Discharged
+347,256,5:50:33 AM,2:19:22 PM,2,Stomach Ache,Discharged
+348,257,6:24:33 AM,5:52:57 AM,2,Migraine,Discharged
+349,258,6:48:44 AM,1:08:28 PM,2,Stomach Ache,Discharged
+358,267,9:27:57 AM,9:50:57 PM,1,Bleeding,Discharged
+359,268,9:47:16 AM,3:03:14 PM,1,Fever,Discharged
+360,269,9:53:10 AM,2:31:13 AM,1,Fever,Discharged
+361,270,9:54:58 AM,6:00:10 PM,1,Fever,Discharged
+362,271,10:15:23 AM,6:46:04 PM,1,Fever,Discharged
+363,272,10:40:28 AM,1:49:10 AM,1,Laceration,Discharged
+366,275,11:43:59 AM,2:02:22 AM,4,Laceration,Discharged
+371,280,1:01:16 PM,5:19:43 AM,5,Shortness of Breath,Discharged
+372,281,1:10:40 PM,4:11:31 PM,5,Shortness of Breath,Discharged
+373,282,1:14:32 PM,12:15:40 AM,1,Fever,Discharged
+374,283,1:48:35 PM,11:44:22 AM,1,Stomach Ache,Discharged
+375,284,2:12:43 PM,8:48:56 PM,1,Migraine,Discharged
+376,285,2:24:41 PM,7:12:44 PM,1,Shortness of Breath,Discharged
+377,286,2:50:44 PM,6:08:03 AM,1,Shortness of Breath,Discharged
+378,287,2:52:26 PM,7:53:02 AM,1,Fever,Discharged
+379,288,2:55:51 PM,3:26:14 AM,1,Shortness of Breath,Discharged
+380,289,3:07:14 PM,2:42:05 PM,1,Fever,Discharged
+385,294,4:02:46 PM,2:51:05 PM,1,Stomach Ache,Discharged
+386,295,4:29:36 PM,12:28:28 PM,1,Migraine,Discharged
+387,296,4:40:37 PM,8:24:48 PM,1,Stomach Ache,Discharged
+388,297,4:41:32 PM,5:24:08 AM,1,Migraine,Discharged
+398,307,7:37:17 PM,5:04:32 PM,1,Intoxication,Discharged
+399,308,8:04:43 PM,12:14:39 PM,1,Intoxication,Discharged
+400,309,8:31:09 PM,8:32:09 PM,1,Fever,Discharged
+401,310,8:51:51 PM,7:45:00 AM,1,Stomach Ache,Discharged
+402,311,9:03:34 PM,8:53:06 PM,1,Migraine,Discharged
+403,312,9:23:56 PM,4:30:47 PM,1,Stomach Ache,Discharged
+404,313,9:43:37 PM,6:59:21 AM,1,Stomach Ache,Discharged
+405,314,9:46:52 PM,10:00:27 AM,1,Stomach Ache,Discharged
+406,315,10:11:07 PM,2:41:07 AM,1,Fever,Discharged
+407,316,10:37:39 PM,3:31:56 PM,4,Chest Pain,Discharged
+410,319,11:26:06 PM,2:43:08 AM,1,Pneumonia,Discharged
+411,320,11:43:41 PM,12:13:04 PM,1,Pneumonia,Discharged
+412,321,11:58:05 PM,9:42:14 AM,1,Pneumonia,Discharged
+413,322,12:27:22 AM,8:10:56 AM,1,Pneumonia,Discharged
+419,328,2:08:23 AM,8:06:10 PM,1,Migraine,Discharged
+420,329,2:11:18 AM,11:39:41 AM,1,Pneumonia,Discharged
+421,330,2:41:58 AM,12:50:53 AM,1,Fever,Discharged
+422,331,3:06:25 AM,9:55:26 AM,1,Fever,Discharged
+423,332,3:35:12 AM,8:46:23 AM,1,Fever,Discharged
+424,1,3:40:16 AM,6:49:07 AM,1,Stomach Ache,Discharged
+425,47,4:07:20 AM,5:58:37 PM,2,Migraine,Discharged
+426,48,4:18:36 AM,1:10:47 AM,2,Stomach Ache,Discharged
+427,49,4:30:16 AM,2:41:42 PM,2,Migraine,Discharged
+428,50,4:38:54 AM,2:06:26 AM,2,Stomach Ache,Discharged
+437,58,8:19:01 AM,7:10:13 AM,1,Bleeding,Discharged
+438,3,8:28:28 AM,10:57:25 PM,1,Fever,Discharged
+439,59,8:45:54 AM,5:59:07 PM,1,Fever,Discharged
+440,60,9:14:58 AM,1:07:04 AM,1,Fever,Discharged
+441,61,9:16:21 AM,6:47:31 PM,1,Fever,Discharged
+442,62,9:31:42 AM,5:24:41 PM,1,Laceration,Discharged
+445,65,10:34:46 AM,1:56:26 AM,4,Laceration,Discharged
+450,70,11:50:24 AM,12:32:06 PM,5,Shortness of Breath,Discharged
+451,71,11:59:23 AM,8:01:01 AM,5,Shortness of Breath,Discharged
+452,72,12:12:05 PM,6:19:17 PM,1,Fever,Discharged
+453,73,12:24:05 PM,5:32:05 AM,1,Stomach Ache,Discharged
+454,93,12:52:05 PM,4:20:46 AM,1,Migraine,Discharged
+455,139,1:01:46 PM,3:32:14 AM,1,Shortness of Breath,Discharged
+456,140,1:24:30 PM,10:23:51 PM,1,Shortness of Breath,Discharged
+457,141,1:53:42 PM,12:27:22 AM,1,Fever,Discharged
+458,142,2:24:14 PM,10:31:32 PM,1,Shortness of Breath,Discharged
+459,143,2:29:27 PM,3:32:40 AM,1,Fever,Discharged
+464,159,4:27:27 PM,1:52:26 AM,1,Stomach Ache,Discharged
+465,160,4:45:03 PM,8:42:58 AM,1,Migraine,Discharged
+466,161,4:51:38 PM,8:10:59 PM,1,Stomach Ache,Discharged
+467,162,5:17:12 PM,3:33:03 PM,1,Migraine,Discharged
+477,179,7:52:20 PM,7:45:13 PM,1,Intoxication,Discharged
+478,180,8:04:43 PM,5:11:59 AM,1,Intoxication,Discharged
+479,181,8:21:29 PM,5:47:13 AM,1,Fever,Discharged
+480,182,8:51:44 PM,9:31:17 AM,1,Stomach Ache,Discharged
+481,183,9:11:26 PM,1:42:36 AM,1,Migraine,Discharged
+482,184,9:44:34 PM,6:04:48 PM,1,Stomach Ache,Discharged
+483,185,9:53:59 PM,10:22:39 AM,1,Stomach Ache,Discharged
+484,185,10:29:59 PM,5:28:24 AM,1,Stomach Ache,Discharged
+485,231,10:42:34 PM,9:56:19 PM,1,Fever,Discharged
+486,232,10:58:33 PM,5:55:08 PM,4,Chest Pain,Discharged
+489,235,11:15:44 PM,1:13:52 PM,1,Migraine,Discharged
+490,236,11:33:19 PM,3:28:10 PM,1,Pneumonia,Discharged
+491,237,11:48:55 PM,6:54:27 AM,1,Fever,Discharged
+492,238,12:22:25 AM,6:39:27 PM,1,Fever,Discharged
+493,239,12:56:06 AM,7:14:20 AM,1,Fever,Discharged
+494,240,1:09:29 AM,3:19:53 PM,1,Stomach Ache,Discharged
+495,241,1:41:38 AM,12:44:36 AM,2,Migraine,Discharged
+496,242,2:01:33 AM,6:43:04 PM,2,Stomach Ache,Discharged
+497,243,2:11:39 AM,9:19:37 PM,2,Migraine,Discharged
+498,244,2:41:42 AM,2:37:16 PM,2,Stomach Ache,Discharged
+507,253,5:49:18 AM,11:43:23 AM,1,Bleeding,Discharged
+508,254,5:55:54 AM,2:09:35 AM,1,Fever,Discharged
+509,255,6:14:32 AM,2:49:45 PM,1,Fever,Discharged
+510,256,6:15:30 AM,3:43:54 PM,1,Fever,Discharged
+511,257,6:15:46 AM,8:07:42 AM,1,Fever,Discharged
+512,258,6:35:38 AM,5:11:39 PM,1,Laceration,Discharged
+515,261,7:35:21 AM,2:14:16 PM,4,Laceration,Discharged
+520,266,9:29:41 AM,9:50:28 AM,5,Shortness of Breath,Discharged
+521,267,9:39:44 AM,1:01:22 AM,5,Shortness of Breath,Discharged
+522,268,10:13:21 AM,12:03:37 PM,1,Fever,Discharged
+523,269,10:45:38 AM,12:20:07 PM,1,Stomach Ache,Discharged
+524,270,11:03:36 AM,12:13:41 PM,1,Migraine,Discharged
+525,271,11:05:01 AM,11:04:42 AM,1,Shortness of Breath,Discharged
+526,272,11:30:30 AM,11:56:42 PM,1,Shortness of Breath,Discharged
+527,273,11:40:35 AM,11:39:59 AM,1,Fever,Discharged
+528,274,12:07:48 PM,4:30:09 PM,1,Shortness of Breath,Discharged
+529,275,12:11:09 PM,5:55:56 PM,1,Fever,Discharged
+534,280,1:05:26 PM,3:46:40 PM,1,Stomach Ache,Discharged
+535,281,1:29:14 PM,1:56:37 PM,1,Migraine,Discharged
+536,282,1:38:06 PM,10:54:15 AM,1,Stomach Ache,Discharged
+537,283,1:52:21 PM,11:41:59 AM,1,Migraine,Discharged
+547,293,4:52:09 PM,6:29:22 PM,1,Intoxication,Discharged
+548,294,5:19:23 PM,5:58:43 AM,1,Intoxication,Discharged
+549,295,5:55:17 PM,1:34:10 AM,1,Fever,Discharged
+550,296,6:27:30 PM,2:58:50 AM,1,Stomach Ache,Discharged
+551,297,6:44:55 PM,9:51:57 PM,1,Migraine,Discharged
+552,298,6:50:17 PM,10:33:04 AM,1,Stomach Ache,Discharged
+553,299,7:24:53 PM,12:18:40 AM,1,Stomach Ache,Discharged
+554,300,7:35:03 PM,1:28:28 PM,1,Stomach Ache,Discharged
+555,301,8:04:57 PM,5:34:30 PM,1,Fever,Discharged
+556,302,8:06:54 PM,11:47:05 AM,4,Chest Pain,Discharged
+559,305,9:28:49 PM,10:03:22 PM,1,Pneumonia,Discharged
+560,306,9:42:48 PM,2:21:42 AM,1,Pneumonia,Discharged
+561,307,9:43:45 PM,9:07:27 PM,1,Pneumonia,Discharged
+562,308,10:06:45 PM,12:45:52 AM,1,Pneumonia,Discharged
+568,314,12:10:41 AM,4:19:12 PM,1,Migraine,Discharged
+569,315,12:44:10 AM,5:10:01 PM,1,Pneumonia,Discharged
+570,316,1:14:05 AM,1:22:47 AM,1,Fever,Discharged
+571,317,1:19:44 AM,9:32:07 PM,1,Fever,Discharged
+572,318,1:54:24 AM,8:21:58 PM,1,Fever,Discharged
+573,319,1:59:22 AM,11:41:52 AM,1,Stomach Ache,Discharged
+574,320,2:21:18 AM,12:10:41 PM,2,Migraine,Discharged
+575,321,2:24:46 AM,2:26:03 AM,2,Stomach Ache,Discharged
+576,322,2:39:24 AM,1:27:13 AM,2,Migraine,Discharged
+577,323,2:54:43 AM,3:04:42 AM,2,Stomach Ache,Discharged
+586,332,5:40:54 AM,5:55:12 AM,1,Bleeding,Discharged
+587,333,6:04:50 AM,2:37:58 AM,1,Fever,Discharged
+588,334,6:11:47 AM,2:00:36 PM,1,Fever,Discharged
+589,335,6:18:02 AM,9:16:39 PM,1,Fever,Discharged
+590,336,6:38:40 AM,6:27:54 AM,1,Fever,Discharged
+591,337,6:59:44 AM,12:56:55 PM,1,Laceration,Discharged
+594,340,7:47:17 AM,3:45:02 PM,4,Laceration,Discharged
+599,345,9:07:22 AM,11:55:14 PM,5,Shortness of Breath,Discharged
+600,346,9:40:35 AM,2:01:40 AM,5,Shortness of Breath,Discharged
+601,347,10:11:09 AM,8:13:56 AM,1,Fever,Discharged
+602,348,10:38:48 AM,5:03:45 AM,1,Stomach Ache,Discharged
+603,349,10:50:05 AM,12:49:51 PM,1,Migraine,Discharged
+604,350,11:24:34 AM,9:02:45 PM,1,Shortness of Breath,Discharged
+605,351,11:26:28 AM,6:38:18 AM,1,Shortness of Breath,Discharged
+606,352,11:33:22 AM,3:16:46 AM,1,Fever,Discharged
+607,353,11:51:42 AM,6:30:35 AM,1,Shortness of Breath,Discharged
+608,354,11:53:35 AM,5:26:57 AM,1,Fever,Discharged
+613,359,1:12:48 PM,10:22:09 AM,1,Stomach Ache,Discharged
+614,360,1:34:19 PM,3:48:54 AM,1,Migraine,Discharged
+615,361,2:09:19 PM,1:08:35 AM,1,Stomach Ache,Discharged
+616,362,2:41:21 PM,3:10:36 AM,1,Migraine,Discharged
+626,372,4:43:14 PM,11:27:50 AM,1,Intoxication,Discharged
+627,373,4:44:04 PM,1:43:06 AM,1,Intoxication,Discharged
+628,374,4:53:32 PM,3:07:06 AM,1,Fever,Discharged
+629,375,5:14:39 PM,2:12:18 PM,1,Stomach Ache,Discharged
+630,376,5:21:49 PM,10:26:29 PM,1,Migraine,Discharged
+631,377,5:22:54 PM,10:33:51 PM,1,Stomach Ache,Discharged
+632,378,5:56:24 PM,2:19:30 PM,1,Stomach Ache,Discharged
+633,379,6:08:44 PM,8:04:42 AM,1,Stomach Ache,Discharged
+634,380,6:28:12 PM,9:46:20 AM,1,Fever,Discharged
+635,381,6:39:06 PM,9:25:08 AM,4,Chest Pain,Discharged
+638,384,7:44:05 PM,10:05:46 AM,1,Pneumonia,Discharged
+639,385,7:53:23 PM,4:42:55 PM,1,Pneumonia,Discharged
+640,386,8:26:58 PM,5:33:35 PM,1,Pneumonia,Discharged
+641,387,9:00:50 PM,3:47:37 AM,1,Pneumonia,Discharged
+645,391,10:21:36 PM,5:38:45 AM,1,Migraine,Discharged
+646,392,10:28:07 PM,9:23:23 AM,1,Pneumonia,Discharged
+647,393,10:35:42 PM,6:26:26 PM,1,Fever,Discharged
+648,394,10:54:04 PM,5:19:23 AM,1,Fever,Discharged
+649,395,10:55:21 PM,10:50:31 PM,1,Fever,Discharged
+650,396,11:15:47 PM,8:52:04 PM,1,Stomach Ache,Discharged
+651,397,11:30:50 PM,4:07:00 AM,2,Migraine,Discharged
+652,398,11:42:15 PM,4:27:21 PM,2,Stomach Ache,Discharged
+653,399,11:51:00 PM,10:37:35 AM,2,Migraine,Discharged
+654,400,12:24:45 AM,3:56:55 AM,2,Stomach Ache,Discharged
+663,409,2:35:14 AM,9:56:16 PM,1,Bleeding,Discharged
+664,410,2:36:20 AM,1:12:31 AM,1,Fever,Discharged
+665,411,2:42:43 AM,1:55:36 PM,1,Fever,Discharged
+666,412,2:46:20 AM,12:35:53 AM,1,Fever,Discharged
+667,413,3:05:31 AM,10:27:17 PM,1,Fever,Discharged
+668,414,3:15:15 AM,3:21:49 AM,1,Laceration,Discharged
+671,417,3:50:59 AM,7:49:31 PM,4,Laceration,Discharged
+676,422,5:43:11 AM,3:39:30 AM,5,Shortness of Breath,Discharged
+677,423,6:18:25 AM,6:04:35 AM,5,Shortness of Breath,Discharged
+678,424,6:42:49 AM,11:05:22 AM,1,Fever,Discharged
+679,425,6:50:18 AM,2:58:19 AM,1,Stomach Ache,Discharged
+680,426,7:19:31 AM,6:42:40 AM,1,Migraine,Discharged
+681,427,7:50:00 AM,4:07:36 PM,1,Shortness of Breath,Discharged
+682,428,8:20:01 AM,11:57:31 AM,1,Shortness of Breath,Discharged
+683,429,8:27:26 AM,9:24:02 AM,1,Fever,Discharged
+684,430,8:45:44 AM,3:53:42 AM,1,Shortness of Breath,Discharged
+685,431,9:09:30 AM,4:34:38 AM,1,Fever,Discharged
+690,436,9:48:08 AM,2:21:32 PM,1,Stomach Ache,Discharged
+691,437,10:12:56 AM,9:39:33 AM,1,Migraine,Discharged
+692,438,10:39:29 AM,12:46:30 AM,1,Stomach Ache,Discharged
+693,439,11:14:12 AM,12:08:13 PM,1,Migraine,Discharged
+703,449,2:33:47 PM,10:34:03 PM,1,Intoxication,Discharged
+704,450,2:45:28 PM,5:46:26 PM,1,Intoxication,Discharged
+705,451,3:03:49 PM,3:52:21 AM,1,Fever,Discharged
+706,452,3:12:42 PM,10:26:53 PM,1,Stomach Ache,Discharged
+707,453,3:32:28 PM,2:42:06 PM,1,Migraine,Discharged
+708,454,3:39:00 PM,7:56:11 PM,1,Stomach Ache,Discharged
+709,455,4:11:24 PM,10:45:05 PM,1,Stomach Ache,Discharged
+710,456,4:40:41 PM,6:05:03 AM,1,Stomach Ache,Discharged
+711,457,5:07:44 PM,2:49:20 PM,1,Fever,Discharged
+712,458,5:11:46 PM,11:50:18 PM,4,Chest Pain,Discharged
+715,461,6:18:34 PM,3:38:28 AM,1,Pneumonia,Discharged
+716,462,6:41:22 PM,5:52:40 AM,1,Pneumonia,Discharged
+718,464,6:59:49 PM,6:23:35 AM,1,Migraine,Discharged
+719,465,7:01:48 PM,11:48:27 PM,1,Pneumonia,Discharged
+720,466,7:27:38 PM,2:25:52 AM,1,Fever,Discharged
+721,467,7:55:32 PM,4:23:00 AM,1,Fever,Discharged
+722,468,8:08:07 PM,10:41:52 AM,1,Fever,Discharged
+723,469,8:35:44 PM,10:41:49 AM,1,Stomach Ache,Discharged
+724,470,9:05:09 PM,4:26:22 PM,2,Migraine,Discharged
+725,471,9:39:35 PM,10:16:24 PM,2,Stomach Ache,Discharged
+726,472,10:13:13 PM,11:45:40 AM,2,Migraine,Discharged
+727,473,10:22:46 PM,10:41:48 AM,2,Stomach Ache,Discharged
+736,482,1:21:57 AM,8:28:07 AM,1,Bleeding,Discharged
+737,483,1:49:55 AM,6:46:20 AM,1,Fever,Discharged
+738,484,2:25:45 AM,3:04:39 PM,1,Fever,Discharged
+739,485,2:44:12 AM,9:59:06 PM,1,Fever,Discharged
+740,486,3:11:31 AM,11:52:00 AM,1,Fever,Discharged
+741,487,3:37:40 AM,7:37:00 PM,1,Laceration,Discharged
+744,490,4:55:32 AM,4:22:53 PM,4,Laceration,Discharged
+749,495,6:49:23 AM,6:39:52 AM,5,Shortness of Breath,Discharged
+750,496,7:18:57 AM,6:29:21 AM,5,Shortness of Breath,Discharged
+751,497,7:44:24 AM,2:11:23 AM,1,Fever,Discharged
+752,498,7:46:32 AM,4:57:02 PM,1,Stomach Ache,Discharged
+753,499,7:48:02 AM,9:55:39 PM,1,Migraine,Discharged
+754,500,7:57:35 AM,3:19:55 PM,1,Shortness of Breath,Discharged
+755,501,8:24:38 AM,5:30:40 AM,1,Shortness of Breath,Discharged
+756,502,8:44:59 AM,3:26:12 PM,1,Fever,Discharged
+757,503,9:18:25 AM,4:43:23 PM,1,Shortness of Breath,Discharged
+758,504,9:31:59 AM,11:14:30 AM,1,Fever,Discharged
+763,509,10:26:22 AM,4:02:31 AM,1,Stomach Ache,Discharged
+764,510,10:48:47 AM,1:07:29 AM,1,Migraine,Discharged
+765,511,11:19:30 AM,12:05:17 PM,1,Stomach Ache,Discharged
+766,512,11:44:33 AM,11:23:07 AM,1,Migraine,Discharged
+776,522,2:27:00 PM,4:58:57 AM,1,Intoxication,Discharged
+777,523,2:42:28 PM,11:03:00 PM,1,Intoxication,Discharged
+778,524,3:17:30 PM,4:02:12 PM,1,Fever,Discharged
+779,525,3:33:18 PM,2:23:46 AM,1,Stomach Ache,Discharged
+780,526,3:37:10 PM,2:52:42 PM,1,Migraine,Discharged
+781,527,3:58:27 PM,6:26:16 PM,1,Stomach Ache,Discharged
+782,528,4:12:18 PM,9:35:58 AM,1,Stomach Ache,Discharged
+783,529,4:46:42 PM,6:43:46 AM,1,Stomach Ache,Discharged
+784,530,5:10:54 PM,6:22:03 AM,1,Fever,Discharged
+785,531,5:28:26 PM,4:45:59 AM,4,Chest Pain,Discharged
+788,534,6:42:43 PM,8:16:24 AM,1,Pneumonia,Discharged
+789,535,7:02:52 PM,5:59:02 AM,1,Pneumonia,Discharged
+790,536,7:16:27 PM,11:11:14 AM,1,Pneumonia,Discharged
+791,537,7:27:30 PM,7:36:12 AM,1,Pneumonia,Discharged
+797,543,9:02:09 PM,7:37:50 AM,1,Migraine,Discharged
+798,544,9:04:41 PM,3:33:51 AM,1,Pneumonia,Discharged
+799,545,9:26:50 PM,12:05:04 PM,1,Fever,Discharged
+800,546,9:55:46 PM,2:56:34 PM,1,Fever,Discharged
+801,547,10:19:45 PM,7:14:47 AM,1,Fever,Discharged
+802,548,10:48:52 PM,2:16:34 PM,1,Stomach Ache,Discharged
+803,549,11:01:02 PM,10:35:14 PM,2,Migraine,Discharged
+804,550,11:09:38 PM,8:12:44 AM,2,Stomach Ache,Discharged
+805,551,11:38:26 PM,12:11:37 PM,2,Migraine,Discharged
+806,552,12:05:59 AM,7:59:06 AM,2,Stomach Ache,Discharged
+815,561,3:02:54 AM,3:32:59 PM,1,Bleeding,Discharged
+816,562,3:08:40 AM,5:10:09 AM,1,Fever,Discharged
+817,563,3:12:36 AM,12:10:08 AM,1,Fever,Discharged
+818,564,3:21:41 AM,6:57:38 PM,1,Fever,Discharged
+819,565,3:35:43 AM,12:00:41 AM,1,Fever,Discharged
+820,566,3:48:58 AM,10:26:38 PM,1,Laceration,Discharged
+823,569,4:25:36 AM,4:49:12 AM,4,Laceration,Discharged
+828,574,5:37:48 AM,4:44:20 AM,5,Shortness of Breath,Discharged
+829,575,6:01:25 AM,3:16:14 PM,5,Shortness of Breath,Discharged
+830,576,6:20:22 AM,10:20:24 PM,1,Fever,Discharged
+831,577,6:45:57 AM,12:08:47 AM,1,Stomach Ache,Discharged
+832,578,6:59:10 AM,8:46:28 AM,1,Migraine,Discharged
+833,579,7:34:19 AM,11:22:52 AM,1,Shortness of Breath,Discharged
+834,580,8:02:33 AM,11:45:23 AM,1,Shortness of Breath,Discharged
+835,581,8:19:25 AM,3:07:53 AM,1,Fever,Discharged
+836,582,8:25:15 AM,4:46:47 AM,1,Shortness of Breath,Discharged
+837,583,8:43:27 AM,11:26:16 PM,1,Fever,Discharged
+842,588,10:00:34 AM,2:04:56 AM,1,Stomach Ache,Discharged
+843,589,10:16:58 AM,5:16:16 PM,1,Migraine,Discharged
+844,590,10:22:02 AM,12:08:01 AM,1,Stomach Ache,Discharged
+845,591,10:43:34 AM,3:17:57 PM,1,Migraine,Discharged
+855,601,1:53:11 PM,11:41:40 AM,1,Intoxication,Discharged
+856,602,2:03:25 PM,1:28:46 AM,1,Intoxication,Discharged
+857,603,2:06:05 PM,9:29:09 AM,1,Fever,Discharged
+858,604,2:25:27 PM,6:21:16 PM,1,Stomach Ache,Discharged
+859,605,2:46:50 PM,1:17:54 PM,1,Migraine,Discharged
+860,606,2:58:05 PM,8:43:56 PM,1,Stomach Ache,Discharged
+861,607,3:25:33 PM,10:11:11 PM,1,Stomach Ache,Discharged
+862,608,3:53:21 PM,10:09:43 PM,1,Stomach Ache,Discharged
+863,609,4:04:52 PM,3:41:59 AM,1,Fever,Discharged
+864,610,4:25:50 PM,3:54:58 AM,4,Chest Pain,Discharged
+867,613,5:09:26 PM,10:10:45 PM,1,Pneumonia,Discharged
+869,615,5:55:10 PM,7:36:11 PM,1,Migraine,Discharged
+870,616,6:03:23 PM,4:54:29 AM,1,Pneumonia,Discharged
+871,617,6:30:38 PM,1:50:18 AM,1,Fever,Discharged
+872,618,6:56:24 PM,5:05:18 AM,1,Fever,Discharged
+873,619,7:27:23 PM,8:12:12 AM,1,Fever,Discharged
+874,620,7:42:30 PM,5:38:58 PM,1,Stomach Ache,Discharged
+875,621,7:48:38 PM,1:29:55 PM,2,Migraine,Discharged
+876,622,7:52:20 PM,11:00:46 PM,2,Stomach Ache,Discharged
+877,623,8:12:22 PM,1:19:01 AM,2,Migraine,Discharged
+878,624,8:19:01 PM,3:35:53 AM,2,Stomach Ache,Discharged
+887,633,10:28:25 PM,5:26:51 AM,1,Bleeding,Discharged
+888,634,10:33:41 PM,10:58:12 AM,1,Fever,Discharged
+889,635,10:36:08 PM,11:53:42 AM,1,Fever,Discharged
+890,636,10:49:27 PM,12:39:41 AM,1,Fever,Discharged
+891,637,10:52:47 PM,1:50:54 PM,1,Fever,Discharged
+892,638,10:53:34 PM,6:43:18 PM,1,Laceration,Discharged
+895,641,12:01:55 AM,5:56:30 PM,4,Laceration,Discharged
+900,646,1:43:27 AM,8:17:59 AM,5,Shortness of Breath,Discharged
+901,647,2:16:04 AM,10:15:17 AM,5,Shortness of Breath,Discharged
+902,648,2:27:58 AM,5:22:13 PM,1,Fever,Discharged
+903,649,2:45:51 AM,1:10:02 AM,1,Stomach Ache,Discharged
+904,650,2:54:59 AM,7:48:05 AM,1,Migraine,Discharged
+905,651,3:06:56 AM,7:51:50 PM,1,Shortness of Breath,Discharged
+906,652,3:31:20 AM,1:10:10 AM,1,Shortness of Breath,Discharged
+907,653,3:46:31 AM,8:34:58 AM,1,Fever,Discharged
+908,654,4:14:24 AM,1:04:37 AM,1,Shortness of Breath,Discharged
+909,655,4:29:03 AM,9:23:15 PM,1,Fever,Discharged
+914,660,6:22:12 AM,6:29:30 AM,1,Stomach Ache,Discharged
+915,661,6:31:43 AM,10:08:55 AM,1,Migraine,Discharged
+916,662,6:49:35 AM,5:36:54 AM,1,Stomach Ache,Discharged
+917,663,7:09:24 AM,9:54:33 AM,1,Migraine,Discharged
+927,673,9:23:12 AM,3:02:17 AM,1,Intoxication,Discharged
+928,674,9:53:11 AM,11:03:56 PM,1,Intoxication,Discharged
+929,675,10:14:16 AM,9:48:42 PM,1,Fever,Discharged
+930,676,10:38:31 AM,4:28:01 PM,1,Stomach Ache,Discharged
+931,677,11:07:03 AM,2:30:46 PM,1,Migraine,Discharged
+932,678,11:08:09 AM,10:00:44 AM,1,Stomach Ache,Discharged
+933,679,11:30:24 AM,8:35:50 PM,1,Stomach Ache,Discharged
+934,680,11:44:23 AM,12:01:39 PM,1,Stomach Ache,Discharged
+935,681,11:52:28 AM,6:27:32 PM,1,Fever,Discharged
+936,682,12:04:30 PM,9:28:49 PM,4,Chest Pain,Discharged
+939,685,12:58:33 PM,2:34:02 AM,1,Pneumonia,Discharged
+940,686,1:12:00 PM,4:53:57 PM,1,Pneumonia,Discharged
+941,687,1:17:10 PM,6:57:39 PM,1,Pneumonia,Discharged
+942,688,1:21:40 PM,4:29:46 AM,1,Pneumonia,Discharged
+947,693,2:31:25 PM,8:39:31 AM,1,Migraine,Discharged
+948,694,3:01:34 PM,7:08:15 PM,1,Pneumonia,Discharged
+949,695,3:33:39 PM,2:35:38 PM,1,Fever,Discharged
+950,696,4:08:37 PM,3:47:17 PM,1,Fever,Discharged
+951,697,4:33:11 PM,12:28:58 PM,1,Fever,Discharged
+952,698,4:43:38 PM,11:30:56 AM,1,Stomach Ache,Discharged
+953,699,4:58:49 PM,6:57:46 AM,2,Migraine,Discharged
+954,700,5:25:53 PM,2:44:52 AM,2,Stomach Ache,Discharged
+955,701,5:37:21 PM,3:27:25 PM,2,Migraine,Discharged
+956,702,5:57:00 PM,1:46:25 AM,2,Stomach Ache,Discharged
+965,711,8:07:59 PM,9:17:43 PM,1,Bleeding,Discharged
+966,712,8:10:51 PM,11:22:50 AM,1,Fever,Discharged
+967,713,8:38:58 PM,4:46:54 AM,1,Fever,Discharged
+968,714,8:54:07 PM,7:39:47 PM,1,Fever,Discharged
+969,715,9:20:34 PM,9:59:03 PM,1,Fever,Discharged
+970,716,9:53:32 PM,6:13:20 PM,1,Laceration,Discharged
+973,719,11:17:29 PM,2:25:04 AM,4,Laceration,Discharged
+978,724,1:33:44 AM,5:08:41 PM,5,Shortness of Breath,Discharged
+979,725,1:52:00 AM,1:51:33 AM,5,Shortness of Breath,Discharged
+980,726,1:59:22 AM,5:55:27 PM,1,Fever,Discharged
+981,727,1:59:55 AM,4:05:04 AM,1,Stomach Ache,Discharged
+982,728,2:00:27 AM,7:04:18 PM,1,Migraine,Discharged
+983,729,2:25:34 AM,10:15:25 AM,1,Shortness of Breath,Discharged
+984,730,2:35:40 AM,10:00:05 PM,1,Shortness of Breath,Discharged
+985,731,3:06:12 AM,2:02:14 PM,1,Fever,Discharged
+986,732,3:41:31 AM,3:02:05 AM,1,Shortness of Breath,Discharged
+987,733,4:01:55 AM,1:05:43 AM,1,Fever,Discharged
+992,738,5:15:15 AM,4:12:06 PM,1,Stomach Ache,Discharged
+993,739,5:25:39 AM,3:48:51 AM,1,Migraine,Discharged
+994,740,5:43:55 AM,5:56:58 PM,1,Stomach Ache,Discharged
+995,741,5:51:42 AM,11:41:18 AM,1,Migraine,Discharged
+1005,751,8:57:55 AM,8:59:06 AM,1,Intoxication,Discharged
+1006,752,9:18:25 AM,10:35:21 AM,1,Intoxication,Discharged
+1007,753,9:36:00 AM,8:09:02 PM,1,Fever,Discharged
+1008,754,10:05:12 AM,4:13:27 PM,1,Stomach Ache,Discharged
+1009,755,10:28:22 AM,4:47:49 PM,1,Migraine,Discharged
+1010,756,10:34:08 AM,12:05:21 PM,1,Stomach Ache,Discharged
+1011,757,10:36:02 AM,1:58:23 PM,1,Stomach Ache,Discharged
+1012,758,10:57:28 AM,4:39:44 AM,1,Stomach Ache,Discharged
+1013,759,11:17:47 AM,11:56:33 PM,1,Fever,Discharged
+1014,760,11:37:08 AM,8:29:31 AM,4,Chest Pain,Discharged
+1017,763,12:31:26 PM,1:16:40 PM,1,Pneumonia,Discharged
+1019,765,1:16:08 PM,5:05:05 AM,1,Migraine,Discharged
+1020,766,1:22:02 PM,8:35:39 PM,1,Pneumonia,Discharged
+1021,767,1:23:18 PM,5:24:08 AM,1,Fever,Discharged
+1022,768,1:51:39 PM,1:45:10 AM,1,Fever,Discharged
+1023,769,2:08:54 PM,11:40:03 PM,1,Fever,Discharged
+1024,770,2:22:21 PM,2:58:14 PM,1,Stomach Ache,Discharged
+1025,771,2:35:21 PM,8:43:48 AM,2,Migraine,Discharged
+1026,772,3:05:26 PM,2:46:22 AM,2,Stomach Ache,Discharged
+1027,773,3:27:07 PM,1:27:32 PM,2,Migraine,Discharged
+1028,774,3:37:00 PM,10:34:58 PM,2,Stomach Ache,Discharged
+1037,783,6:00:36 PM,12:00:07 PM,1,Bleeding,Discharged
+1038,784,6:09:58 PM,5:58:24 AM,1,Fever,Discharged
+1039,785,6:10:37 PM,11:31:32 PM,1,Fever,Discharged
+1040,786,6:19:53 PM,7:49:59 AM,1,Fever,Discharged
+1041,787,6:38:06 PM,5:33:20 AM,1,Fever,Discharged
+1042,788,7:00:15 PM,1:47:58 PM,1,Laceration,Discharged
+1045,791,8:30:11 PM,12:55:13 PM,4,Laceration,Discharged
+1050,796,9:48:35 PM,10:25:45 AM,5,Shortness of Breath,Discharged
+1051,797,10:13:48 PM,6:39:38 AM,5,Shortness of Breath,Discharged
+1052,798,10:19:22 PM,3:27:56 AM,1,Fever,Discharged
+1053,799,10:31:52 PM,10:51:02 AM,1,Stomach Ache,Discharged
+1054,800,10:32:33 PM,1:27:52 PM,1,Migraine,Discharged
+1055,801,10:47:30 PM,4:26:43 PM,1,Shortness of Breath,Discharged
+1056,802,11:03:30 PM,5:05:56 AM,1,Shortness of Breath,Discharged
+1057,803,11:18:49 PM,9:34:03 AM,1,Fever,Discharged
+1058,804,11:25:40 PM,6:23:02 AM,1,Shortness of Breath,Discharged
+1059,805,11:29:31 PM,7:26:46 PM,1,Fever,Discharged
+1064,810,12:46:25 AM,7:10:12 PM,1,Stomach Ache,Discharged
+1065,811,1:20:32 AM,4:58:53 PM,1,Migraine,Discharged
+1066,812,1:22:24 AM,11:37:51 AM,1,Stomach Ache,Discharged
+1067,813,1:25:30 AM,11:51:49 PM,1,Migraine,Discharged
+1077,823,4:35:47 AM,3:26:13 AM,1,Intoxication,Discharged
+1078,824,4:36:32 AM,7:58:03 PM,1,Intoxication,Discharged
+1079,825,4:58:32 AM,12:12:56 PM,1,Fever,Discharged
+1080,826,5:27:48 AM,8:13:45 PM,1,Stomach Ache,Discharged
+1081,827,5:42:55 AM,2:27:30 AM,1,Migraine,Discharged
+1082,828,5:50:40 AM,7:23:29 AM,1,Stomach Ache,Discharged
+1083,829,5:56:33 AM,12:05:07 AM,1,Stomach Ache,Discharged
+1084,830,6:00:49 AM,1:58:28 AM,1,Stomach Ache,Discharged
+1085,831,6:27:18 AM,12:50:59 PM,1,Fever,Discharged
+1086,832,6:45:20 AM,6:09:28 PM,4,Chest Pain,Discharged
+1089,835,6:56:04 AM,2:55:50 AM,1,Pneumonia,Discharged
+1090,836,7:09:39 AM,1:38:04 PM,1,Pneumonia,Discharged
+1091,837,7:25:50 AM,2:46:35 PM,1,Pneumonia,Discharged
+1092,838,7:26:36 AM,7:27:32 PM,1,Pneumonia,Discharged
+1098,844,9:29:48 AM,7:02:33 PM,1,Migraine,Discharged
+1099,845,10:00:07 AM,6:55:29 AM,1,Pneumonia,Discharged
+1100,846,10:03:54 AM,6:03:38 AM,1,Fever,Discharged
+1101,847,10:07:33 AM,2:43:07 AM,1,Fever,Discharged
+1102,848,10:12:37 AM,10:20:36 PM,1,Fever,Discharged
+1103,849,10:30:57 AM,7:25:11 PM,1,Stomach Ache,Discharged
+1104,850,10:46:09 AM,8:52:26 PM,2,Migraine,Discharged
+1105,851,10:49:58 AM,4:43:16 PM,2,Stomach Ache,Discharged
+1106,852,11:19:41 AM,2:47:17 AM,2,Migraine,Discharged
+1107,853,11:23:51 AM,11:03:26 PM,2,Stomach Ache,Discharged
+1116,862,2:06:53 PM,5:34:56 PM,1,Migraine,Discharged
+1117,863,2:21:44 PM,8:32:17 PM,1,Pneumonia,Discharged
+1118,864,2:25:42 PM,11:16:35 PM,1,Fever,Discharged
+1119,865,2:27:05 PM,1:54:44 PM,1,Fever,Discharged
+1120,866,2:29:35 PM,1:44:04 PM,1,Fever,Discharged
+1121,867,3:05:19 PM,1:28:17 PM,1,Stomach Ache,Discharged
+1122,868,3:05:59 PM,1:53:03 PM,2,Migraine,Discharged
+1123,869,3:19:13 PM,10:11:13 PM,2,Stomach Ache,Discharged
+1124,870,3:31:20 PM,10:28:29 AM,2,Migraine,Discharged
+1125,871,3:33:17 PM,9:27:09 PM,2,Stomach Ache,Discharged
+1134,880,6:40:32 PM,2:08:40 PM,1,Bleeding,Discharged
+1135,881,6:52:38 PM,1:05:46 PM,1,Fever,Discharged
+1136,882,7:25:42 PM,5:03:08 AM,1,Fever,Discharged
+1137,883,7:44:45 PM,11:31:59 AM,1,Fever,Discharged
+1138,884,7:57:39 PM,1:46:44 AM,1,Fever,Discharged
+1139,885,8:33:19 PM,10:16:23 PM,1,Laceration,Discharged
+1142,888,9:21:47 PM,7:14:01 AM,4,Laceration,Discharged
+1147,893,11:04:59 PM,9:56:40 AM,5,Shortness of Breath,Discharged
+1148,894,11:31:17 PM,7:31:45 AM,5,Shortness of Breath,Discharged
+1149,895,11:56:56 PM,12:57:45 AM,1,Fever,Discharged
+1150,896,11:57:04 PM,1:01:49 AM,1,Stomach Ache,Discharged
+1151,897,12:24:27 AM,2:11:30 AM,1,Migraine,Discharged
+1152,898,12:26:55 AM,12:09:35 AM,1,Shortness of Breath,Discharged
+1153,899,12:33:50 AM,11:26:50 PM,1,Shortness of Breath,Discharged
+1154,900,1:01:32 AM,9:42:57 PM,1,Fever,Discharged
+1155,901,1:19:22 AM,3:04:28 AM,1,Shortness of Breath,Discharged
+1156,902,1:32:48 AM,12:21:28 PM,1,Fever,Discharged
+1161,907,3:07:41 AM,10:53:29 AM,1,Stomach Ache,Discharged
+1162,908,3:20:10 AM,5:12:02 AM,1,Migraine,Discharged
+1163,909,3:47:44 AM,3:44:34 AM,1,Stomach Ache,Discharged
+1164,910,4:02:22 AM,7:45:04 PM,1,Migraine,Discharged
+1174,920,7:26:00 AM,9:51:33 PM,1,Intoxication,Discharged
+1175,921,8:02:00 AM,4:49:32 AM,1,Intoxication,Discharged
+1176,922,8:36:19 AM,12:41:23 AM,1,Fever,Discharged
+1177,923,9:05:10 AM,10:20:33 PM,1,Stomach Ache,Discharged
+1178,924,9:26:25 AM,1:51:45 PM,1,Migraine,Discharged
+1179,925,9:50:14 AM,1:45:42 AM,1,Stomach Ache,Discharged
+1180,926,9:52:27 AM,7:16:30 PM,1,Stomach Ache,Discharged
+1181,927,10:01:16 AM,8:53:53 AM,1,Stomach Ache,Discharged
+1182,928,10:23:51 AM,7:49:50 AM,1,Fever,Discharged
+1183,929,10:38:43 AM,2:31:52 AM,4,Chest Pain,Discharged
+1186,932,11:52:38 AM,10:19:42 AM,1,Pneumonia,Discharged
+1187,933,12:11:12 PM,4:41:15 PM,1,Pneumonia,Discharged
+1188,934,12:21:46 PM,6:32:21 PM,1,Pneumonia,Discharged
+1189,935,12:51:15 PM,11:40:41 PM,1,Pneumonia,Discharged
